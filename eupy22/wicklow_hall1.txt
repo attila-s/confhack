@@ -1,0 +1,5685 @@
+so 
+ [Music] 
+ uh we're here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for euro 
+ python this year 
+ our team has a few talks 
+ lined up for some of the attendees so 
+ we're doing that and we also have some 
+ cool swag and stickers for all the 
+ attendees as well some of them might be 
+ limited edition we'll see 
+ and we absolutely love europe python 
+ because of the community uh the european 
+ community is amazing and we 
+ love being able to see them in hearing 
+ person get this just this connection 
+ that we nor we can't have virtually but 
+ it's always not the same in person is 
+ always like that 
+ really great conversations and we get 
+ like 
+ great feedback from our users as well 
+ but most importantly it's the 
+ conversations about how much we love 
+ python all the amazing things we do 
+ with this like the european um community 
+ so we're a brand new sponsor for uh for 
+ europe and this year bank for america 
+ mainly here as a recruitment drive we 
+ have you know plenty of open roads in 
+ the piping space 
+ both in core app development django 
+ flask and 
+ uh and across full stack as well 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of nile o'connor talking about asset 
+ price reversals 
+ uh um 
+ have the normal swag and uh special 
+ gifts for people and we'll be doing some 
+ some raffles and giveaways um and if 
+ there's anyone who wants to talk to us 
+ at the desk we're here all through the 
+ conference guess we chose european 
+ because a it's in dublin and it's the 
+ first time since uh overtime so i've 
+ been able to get people together and 
+ really you know promote what we do in in 
+ bank america in terms of python um 
+ you know it's a very much 
+ a python focused uh conference which is 
+ really where our tech stack lies and 
+ where a lot of our projects are within 
+ bank of america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umnitza in ireland 
+ so this is umnitz's first year to 
+ sponsor euro python we're so excited to 
+ celebrate this year and participate in 
+ euro python 
+ coming to ireland so umnitsa is a u.s 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate in the 
+ ecosystem the python ecosystem and 
+ really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pie ladies lunch so nitsa are very 
+ passionate about gender diversity within 
+ our engineering team in galway we 
+ currently have 33 
+ females in our team and so we're very 
+ privileged and honored to sponsor the pi 
+ ladies lunch which i think is taking 
+ place on friday so we're very excited to 
+ be here i think europe python is a very 
+ unique conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together 
+ and really gives them the opportunity to 
+ learn about the most progressive 
+ practices within python and also 
+ leverage the wider 
+ python ecosystem 
+ [Music] 
+ umnitsa is the enterprise technology 
+ management solution that consolidates 
+ data from existing siloed tools to 
+ provide a single source of truth for 
+ endpoints applications cloud networking 
+ and accessories 
+ with imnitza you can automate processes 
+ from purchase to end of life achieving 
+ five key benefits 
+ find out how omnitsa can give you 
+ complete control and insight across your 
+ technology portfolios book a live demo 
+ today at umnitza.com 
+ [Music] 
+ [Music] 
+ foreign 
+ [Music] 
+ so in my team execution research 
+ everything starts from data 
+ after getting the data we do our 
+ research and analysis on this data to 
+ test our ideas 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up and 
+ this whole workflow almost exclusively 
+ works in python 
+ working in a company that has 
+ aspirations to be the best of what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze it and express 
+ it in a way that others understand 
+ [Music] 
+ and that's i suppose that's the gift of 
+ a great storyteller 
+ [Music] 
+ uh we're here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for euro 
+ python this year um our team has a few 
+ talks 
+ lined up for some of the attendees so 
+ we're doing that and we also have some 
+ cool swag and stickers for 
+ all the attendees as well some of them 
+ might be limited edition we'll see 
+ and we absolutely love euro python 
+ because of the community the european 
+ community is amazing and we love being 
+ able to see them in hearing person get 
+ this just this connection that we nor we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like uh 
+ great feedback from our users as well 
+ but most importantly it's the 
+ conversations about how much we love 
+ python and all the amazing things we do 
+ with this like the european 
+ community 
+ so we're a brand new sponsor for uh for 
+ europe and this year bank of america 
+ mainly here as a recruitment drive we 
+ have you know plenty of open roads in 
+ the python space 
+ both in core app development django 
+ flask and 
+ uh and across full stack as well 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of nile o'connor talking about that 
+ surprise reversals um 
+ without the normal swag and 
+ special gifts for people and we'll be 
+ doing some some raffles and giveaways 
+ and if there's anyone who wants to talk 
+ to us at the at the desk we're we're 
+ here all all through the conference 
+ guess we chose europe because a it's in 
+ dublin and it's uh it's the first time 
+ since uh overtime so we've been able to 
+ get people together and really you know 
+ promote what we do in in bank america in 
+ terms of python um you know it's a very 
+ much 
+ a python focused uh conference which is 
+ really where our tech stack lies and 
+ where a lot of our projects are within 
+ bank of america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umnitsa in ireland 
+ so this is umnitz's first year to 
+ sponsor euro python we're so excited to 
+ celebrate this year and participate in 
+ euro python 
+ coming to ireland so umnitza is a us 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate 
+ in the ecosystem the python ecosystem 
+ and really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pi ladies lunch so nitza are very 
+ passionate about gender diversity within 
+ our engineering team in galway we 
+ currently have 33 percent um females in 
+ our team 
+ and so we're very privileged and honored 
+ to sponsor the pie ladies lunch which i 
+ think is taking place on friday so we're 
+ very excited to be here i think european 
+ python is a very unique conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together 
+ and really gives them the opportunity to 
+ learn about the most progressive 
+ practices within python and also 
+ leverage the wider 
+ python ecosystem 
+ [Music] 
+ umnitza is the enterprise technology 
+ management solution that consolidates 
+ data from existing siloed tools to 
+ provide a single source of truth for 
+ endpoints applications cloud networking 
+ and accessories 
+ within itsa you can automate processes 
+ from purchase to end of life achieving 
+ five key benefits 
+ find out how omnitsa can give you 
+ complete control and insight across your 
+ technology portfolios book a live demo 
+ today at umnitza.com 
+ [Music] 
+ in my team execution research everything 
+ starts from data 
+ after getting the data we do our 
+ research and analysis on this data to 
+ test our ideas 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up and 
+ this whole workflow almost exclusively 
+ works in python 
+ working in a company that has 
+ aspirations to be the best of what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ [Music] 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze it and express 
+ it in a way that others understand 
+ and that's i suppose that's the gift of 
+ a great storyteller 
+ [Music] 
+ so uh we're here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for 
+ europe python this year um our team has 
+ a few talks 
+ lined up for some of the attendees so 
+ we're doing that and we also have some 
+ cool swag and stickers for all the 
+ attendees as well some of them might be 
+ limited edition we'll see 
+ and we absolutely love your python 
+ because of the community 
+ the european community is amazing and we 
+ love being able to see them in hearing 
+ person get this just this connection 
+ that we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like 
+ [Music] 
+ great feedback from our users as well 
+ but most importantly it's the 
+ conversations about how much we love 
+ python all the amazing things we do 
+ with this like the european uh community 
+ so we're a brand new sponsor for uh for 
+ your piping this year bank of america 
+ mainly here as a recruitment drive we 
+ have you know plenty of open roads in 
+ the piping space 
+ both in core app development django 
+ flask and 
+ across full stack as well 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of nile o'connor talking about asset 
+ price reversals 
+ without the normal swag and uh special 
+ gifts for people and we'll be doing some 
+ some raffles and giveaways um and if 
+ there's anyone who wants to talk to us 
+ at the desk we're here all through the 
+ conference i guess we chose europe 
+ because a it's in dublin and it's the 
+ first time since 
+ overtimes i've been able to get people 
+ together and really you know promote 
+ what we do in bank america in terms of 
+ python um 
+ you know it's a very much 
+ a python focused uh conference which is 
+ really where our tech stack lies and 
+ where a lot of our projects are within 
+ bank of america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umitza in ireland 
+ so this is umnitz's first year to 
+ sponsor europe python we're so excited 
+ to celebrate this year and participate 
+ in europe and 
+ coming to ireland so umnitsa is a u.s 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate 
+ in the ecosystem the python ecosystem 
+ and really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pi ladies lunch so nitsa are very 
+ passionate about gender diversity within 
+ our engineering team in galway we 
+ currently have 33 
+ females in our team and so we're very 
+ privileged and honored to sponsor the pi 
+ ladies lunch which i think is taking 
+ place on friday so we're very excited to 
+ be here i think european python is a 
+ very unique conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together 
+ and really gives them the opportunity to 
+ learn about the most progressive 
+ practices within python and also 
+ leverage the wider 
+ python ecosystem 
+ [Music] 
+ umnitza is the enterprise technology 
+ management solution that consolidates 
+ data from existing siloed tools to 
+ provide a single source of truth for 
+ endpoints applications cloud networking 
+ and accessories 
+ with imnitza you can automate processes 
+ from purchase to end of life achieving 
+ 5k 
+ can give you complete control and 
+ insight across your technology 
+ portfolios book a live demo today at 
+ umnitza.com 
+ [Music] 
+ shhh 
+ foreign 
+ in my team execution research everything 
+ starts from data 
+ after getting the data we do our 
+ research and analysis on this data to 
+ test our ideas 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up and 
+ this whole workflow almost exclusively 
+ works working in a company that has 
+ aspirations to be the best of what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ [Music] 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze it and express 
+ it in a way that others understand 
+ [Music] 
+ and that's i suppose that's the gift of 
+ a great storyteller 
+ [Music] 
+ so 
+ uh we're here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for euro 
+ python this year 
+ our team has has a few talks 
+ lined up for some of the attendees so 
+ we're doing that and we also have some 
+ cool swag stickers for all the attendees 
+ as well some of them might be limited 
+ edition we'll see 
+ and we absolutely love euro python 
+ because of the community the european 
+ community is amazing and we 
+ love being able to see them in hearing 
+ person get this just this connection 
+ that we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like 
+ [Music] 
+ great feedback from our users as well 
+ but most importantly is the 
+ conversations about how much we love 
+ python all the amazing things we do 
+ with this like the european uh 
+ community 
+ so we're a brand new sponsor for uh for 
+ your piping this year bank of america 
+ mainly here as a recruitment drive we 
+ have plenty of open roads in the python 
+ space 
+ both in core app development django 
+ flask and 
+ across full stack as well 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of nile o'connor talking about that 
+ supplies reversals um 
+ uh without the normal swag and 
+ special gifts for people and we'll be 
+ doing some some raffles and giveaways 
+ um and if there's anyone who wants to 
+ talk to us the at the desk we're here 
+ all through the conference i guess we 
+ chose europe because hey it's in dublin 
+ and it's the first time since um 
+ so we know to get people together and 
+ really you know promote what we do in 
+ bank america in terms of python um 
+ you know it's a very much 
+ a python-focused 
+ conference which is really where our 
+ tech stack lies and where a lot of our 
+ projects are within bank of america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umnitza in ireland 
+ so this is umnitz's first year to 
+ sponsor european we're so excited to 
+ celebrate this year and participate in 
+ europe python 
+ coming to ireland so umnitsa is a us 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate 
+ in the ecosystem the python ecosystem 
+ and really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pi ladies lunch so nissa are very 
+ passionate about gender diversity within 
+ our engineering team in galway we 
+ currently have 33 
+ um females in our team 
+ and so we're very privileged and honored 
+ to sponsor the pie ladies lunch which i 
+ think is taking place on friday so we're 
+ very excited to be here i think european 
+ python is a very unique conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together 
+ and really gives them the opportunity to 
+ learn about the most progressive 
+ practices within python and also 
+ leverage the wider 
+ python ecosystem 
+ is the enterprise technology management 
+ solution that consolidates data from 
+ existing silo tools to provide a single 
+ source of truth for endpoints 
+ applications cloud networking and 
+ accessories 
+ within itself you can automate processes 
+ from purchase to end of life achieving 
+ five key benefits 
+ find out how nitza can give you complete 
+ control and insight across your 
+ technology portfolios book a live demo 
+ today at umnitza.com 
+ [Music] 
+ in my team execution research everything 
+ starts from data after getting the data 
+ we do our research and analysis on this 
+ data to test our ideas 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up 
+ and this whole workflow almost 
+ exclusively 
+ working in a company that has 
+ aspirations to be the best of what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ [Music] 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze it and express 
+ it in a way that others understand 
+ [Music] 
+ and that's i suppose that's the gift of 
+ a great storyteller 
+ [Music] 
+ here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for 
+ europe python this year 
+ our team has a few talks uh lined up for 
+ some of the attendees so we're doing 
+ that and we also have some cool swag and 
+ stickers for all the attendees as well 
+ some of them might be limited edition 
+ we'll see 
+ and we absolutely love europe python 
+ because of the community the european 
+ community is amazing and we love being 
+ able to see them in hearing person get 
+ this just this connection that we nor we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like 
+ [Music] 
+ great feedback from our users as well 
+ but most importantly it's the 
+ conversations about how much we love 
+ python all the amazing things we do 
+ with this like the european 
+ community 
+ so we're a brand new sponsor for uh for 
+ european this year from bank of america 
+ mainly here as a recruitment drive we 
+ have plenty of open roads in the python 
+ space 
+ both in core app development django 
+ flask and 
+ across full stack as well 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of nile o'connor talking about asset 
+ price reversals um 
+ uh without normal swag and 
+ special gifts for people and we'll be 
+ doing some some raffles and giveaways um 
+ and if there's anyone who wants to talk 
+ to us at the desk we're here all through 
+ the conference guess we chose europe and 
+ because a it's in dublin and it's the 
+ first time since uh overtime so i've 
+ been able to get people together and 
+ really you know promote what we do in 
+ bank america in terms of python um 
+ you know it's a very much uh a python 
+ focused uh conference which is really 
+ where our tech stack lies and where a 
+ lot of our projects are within bank of 
+ america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umitza in ireland 
+ so this is umnitz's first year to 
+ sponsor euro python we're so excited to 
+ celebrate this year and participate in 
+ euro python 
+ coming to ireland so umnitsa is a u.s 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate in the 
+ ecosystem the python ecosystem and 
+ really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pie ladies lunch 
+ so nitza are very passionate about 
+ gender diversity within our engineering 
+ team in galway we currently have 33 
+ females in our team and so we're very 
+ privileged and honored to sponsor the 
+ pie ladies lunch which i think is taking 
+ place on friday so we're very excited to 
+ be here i think europe python is a very 
+ unique conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together 
+ and really gives them the opportunity to 
+ learn about the most progressive 
+ practices within python and also 
+ leverage the wider 
+ python ecosystem 
+ [Music] 
+ umnitsa is the enterprise technology 
+ management solution that consolidates 
+ data from existing silo tools to provide 
+ a single source of truth for endpoints 
+ applications cloud networking and 
+ accessories 
+ with imnitza you can automate processes 
+ from purchase to end of life achieving 
+ five key benefits 
+ find out how omnitza can give you 
+ complete control and insight across your 
+ technology portfolios book a live demo 
+ today at umnitza.com 
+ [Music] 
+ so 
+ foreign 
+ in my team execution research everything 
+ starts from data 
+ after getting the data we do our 
+ research and analysis on this data to 
+ test our ideas 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up and 
+ this whole workflow almost exclusively 
+ works inside 
+ working in a company that has 
+ aspirations to be the best at what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ [Music] 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze it and express 
+ it in a way that others understand 
+ [Music] 
+ and that's i suppose that's the gift of 
+ a great storyteller 
+ [Music] 
+ uh we're here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for euro 
+ python this year 
+ our team has a few talks 
+ lined up for some of the attendees so 
+ we're doing that and we also have some 
+ cool swag stickers for all the attendees 
+ as well some of them might be limited 
+ edition we'll see 
+ and we absolutely love europe python 
+ because of the community the european 
+ community is amazing and we 
+ love being able to see them in hearing 
+ person get this just this connection 
+ that we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like uh 
+ great feedback from our users as well 
+ but most importantly it's the 
+ conversation about how much we love 
+ python and all the amazing things we do 
+ with this like the european uh 
+ community 
+ so we're a brand new sponsor for uh for 
+ europe and this year bank of america 
+ mainly here as an improvement drive we 
+ have plenty of open roles in the python 
+ space uh both in core app development 
+ django flask and 
+ uh and across full stack as well 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of nile o'connor talking about 
+ and 
+ special gifts for people and we'll be 
+ doing some some raffles and giveaways 
+ um and if there's anyone who wants to 
+ talk to us at the desk we're here all 
+ through the conference i guess we chose 
+ europe because a it's in dublin and it's 
+ the first time since uh people with 
+ times they've been able to get people 
+ together and really you know promote 
+ what we do in bank america in terms of 
+ python 
+ you know it's a very much 
+ a python focused 
+ conference which is really where our 
+ tech stack lies and where a lot of our 
+ projects are within bank of america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umnitza in ireland so this is umnitz's 
+ first year to sponsor euro python we're 
+ so excited to celebrate this year and 
+ participate in europe python 
+ coming to ireland so umnitsa is a u.s 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate 
+ in the ecosystem the python ecosystem 
+ and really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pi ladies lunch so nitza are very 
+ passionate about gender diversity within 
+ our engineering team in galway we 
+ currently have 33 percent um females in 
+ our team 
+ and so we're very privileged and honored 
+ to sponsor the pie ladies lunch which i 
+ think is taking place on friday so we're 
+ very excited to be here i think europe 
+ python is a very unique conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together 
+ and really gives them the opportunity to 
+ learn about the most progressive 
+ practices within python and also 
+ leverage the wider 
+ python ecosystem 
+ [Music] 
+ umnitza is the enterprise technology 
+ management solution that consolidates 
+ data from existing silo tools to provide 
+ a single source of truth for endpoints 
+ applications cloud networking and 
+ accessories 
+ with imnitza you can automate processes 
+ from purchase to end of life achieving 
+ five key benefits 
+ find out how onitsa can give you 
+ complete control and insight across your 
+ technology portfolios book a live demo 
+ today at umnitsa.com 
+ [Music] 
+ in my team execution research everything 
+ starts from data 
+ after getting the data we do our 
+ research and analysis on this data to 
+ test our ideas 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up and 
+ this whole workflow almost exclusively 
+ works 
+ working in a company that has 
+ aspirations to be the best of what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ [Music] 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze it and express 
+ it in a way that others understand 
+ [Music] 
+ and that's i suppose that's the gift of 
+ a great storyteller 
+ [Music] 
+ uh we're here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for 
+ europe python this year um our team has 
+ a few talks uh lined up for some of the 
+ attendees so we're doing that and we 
+ also have some cool swag and stickers 
+ for all the attendees as well some of 
+ them might be limited edition we'll see 
+ and we absolutely love europe python 
+ because of the community the european 
+ community is amazing and we love being 
+ able to see them in hearing person get 
+ this just this connection that we nor we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like a 
+ feedback from our users as well but most 
+ importantly it's the conversation about 
+ how much we love python all the amazing 
+ things we do 
+ with this like the european uh community 
+ so we're a brand new sponsor for uh for 
+ your piping this year bank for america 
+ mainly here as a recruitment drive we 
+ have you know plenty of open roads in 
+ the python space 
+ both in core app development django 
+ flask and 
+ across full stack as well in terms of 
+ doing something special for the 
+ attendees we have a really interesting 
+ speaker this year in terms of nine 
+ o'clock one two one two three one two 
+ one two three one two swag and uh 
+ special gifts for people and we'll be 
+ doing some some raffles and giveaways um 
+ and if there's anyone who wants to talk 
+ to us at the at the desk we're here all 
+ through the conference i guess we chose 
+ europe because a it's in dublin and it's 
+ the first time since uh people with time 
+ so you know to get people together and 
+ really you know promote what we do in 
+ bank america in terms of python um 
+ you know it's a very much 
+ a python focused uh conference which is 
+ really where our tech stack lies and 
+ where a lot of our projects are within 
+ bank of 
+ america so hi my name is marianne shine 
+ and i'm the head of hr and operations 
+ with umitza in ireland 
+ so this is umnitz's first year to 
+ sponsor euro python we're so excited to 
+ celebrate this year and participate in 
+ europe python 
+ coming to ireland so umnitza is a u.s 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate in the 
+ ecosystem the python ecosystem and 
+ really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pi ladies lunch so nitsa are very 
+ passionate about gender diversity within 
+ our engineering team in galway we 
+ currently have 33 percent um females in 
+ our team and so we're very privileged 
+ and honored to sponsor the pie ladies 
+ lunch which i think is taking place on 
+ friday so we're very excited to be here 
+ i think europe python is a very unique 
+ conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together and really gives them 
+ the opportunity to learn about the most 
+ progressive practices within python and 
+ also leverage the wider python 
+ of food for endpoints applications cloud 
+ networking and accessories 
+ within itsa you can automate processes 
+ today 
+ [Music] 
+ [Music] 
+ okay 
+ um 
+ and my team execution research every two 
+ one two three one two one two 
+ one two analysis 
+ to test our ideas 
+ and then finally we have to get it in an 
+ outperformance 
+ working in a company that has 
+ aspirations to be the best of what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ [Music] 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze 
+ i suppose that's the gift of a great 
+ storyteller 
+ [Music] 
+ one two three four five six seven eight 
+ nine ten yeah one two 
+ three four five six seven eight nine ten 
+ yeah one two our team has a few talks um 
+ and we also have some cool swag for all 
+ the attendees as well some of them are 
+ limited edition we'll see uh 
+ because of the community uh the european 
+ community is amazing and we 
+ love being able to see them okay hearing 
+ persons get this just this connection 
+ that we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like um 
+ great feedback from our users as well 
+ but most importantly it's the 
+ conversations about how much we love 
+ python all the amazing things we do with 
+ this like the european um community 
+ anyways 
+ for europe this year bank of america 
+ mainly here as a recruitment 
+ driver space 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of ps reversals 
+ without the normal swag and uh special 
+ gifts for people and we'll be doing some 
+ some raffles and giveaways 
+ and if there's anyone who wants to talk 
+ to us at the desk we're here all through 
+ the comments i guess we chose europe 
+ because a it's in dublin and it's the 
+ first time since uh people with times 
+ i've been able to get people together 
+ and really you know promote what we do 
+ in bank america in terms of python um 
+ you know it's a very much 
+ a python focused uh conference which is 
+ really where our tech stack lies and 
+ where a lot of our projects are within 
+ bank of america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umnitza in ireland 
+ so this is umnitz's first year to 
+ sponsor europe python we're so excited 
+ to celebrate this year and participate 
+ in euro python 
+ coming to ireland so umnitsa is a us 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity to bring 
+ them along today and participate 
+ in the ecosystem the python ecosystem 
+ and really learn from other 
+ professionals within this area this year 
+ we're actually sponsoring the employees 
+ about gender diversity within our 
+ engineering 
+ um 
+ um 
+ so 
+ oh 
+ do you have to have this video playing 
+ all the time yeah so not um 
+ um 
+ yourself 
+ is 
+ all right 
+ can you click somewhere like this 
+ okay 
+ okay thank you 
+ so 
+ okay 
+ uh 
+ thank you 
+ yes 
+ uh 
+ uh 
+ this 
+ um 
+ me 
+ um 
+ i don't know 
+ so steel on this 
+ okay 
+ okay 
+ so i'll just put it in my hand signals 
+ for ten 
+ five two 
+ and don't stay 
+ in front of your camera 
+ okay fine but my slides are not coming 
+ in the screen 
+ uh 
+ yes 
+ okay hello everyone and welcome to our 
+ 10 30 talk 
+ um i'd like to present walkthrough of 
+ django internals of hitsubmits3 
+ [Applause] 
+ okay uh good morning everyone 
+ thank you very much for joining the talk 
+ vam welcome welcome to my talk 
+ walkthrough of django internals 
+ uh so all of you who are joining or 
+ coming for this talk i am expecting that 
+ you must have 
+ done some projects in django to get 
+ sense of 
+ out of this talk 
+ so 
+ let's get started 
+ so 
+ uh my name is sethul mastery i have 
+ around 10 plus years of experience in 
+ the industry i have laid the teams in 
+ full stack web development 
+ devops data engineering microservices 
+ and 
+ some of my past role included the 
+ solution architect chief architect where 
+ i had to innovate in a 
+ technology such a way that i can create 
+ value the business 
+ so there i got interested in 
+ interpretation and i started the company 
+ called security technology and 
+ there we actually help the companies 
+ around the world to 
+ do a digital product development devops 
+ data engineering microservices 
+ so let's get started 
+ so 
+ let's start with a simple question how 
+ does django starts 
+ so django start with a simple command 
+ called python menu dot pyro on server 
+ that's how we start the attribute server 
+ so here run server is the management 
+ command in django which spins the 
+ attribute server now 
+ this is a 360 view of the things that 
+ django 
+ run server does internally to spin the 
+ attitude server so it 
+ looks through all the apps in django it 
+ finds the management command all the 
+ possible management command in django 
+ code base as well as in the 
+ install apps it later on passes the 
+ command line arguments it loads the 
+ settings 
+ configures the logging it loads the app 
+ configurations from individual apps it 
+ loads all the model in all the apps and 
+ in the end it starts 30 to be server now 
+ let's see the 
+ detailed view of the same 
+ so whenever we do python menu dot py 
+ anything it can be migrate or make 
+ migrations or runs or any kind of any 
+ any custom user defined uh management 
+ command then this class called django 
+ dot co dot management dot management 
+ utility gets initiated so there's a 
+ front door to 
+ uh it's a front front door to start any 
+ kind of django management command and it 
+ has the so that class has the execute 
+ method which gets uh called 
+ uh django uses the command parser which 
+ actually inherits the python's argument 
+ parser and whoever don't know so 
+ argument password is the 
+ actually a utility provided by the 
+ python itself which converts the 
+ command line arguments into a key value 
+ pair 
+ django actually overrides the its 
+ are given method to 
+ make error messages more relevant 
+ uh later django 
+ loops over all the apps in django code 
+ base as well as like it goes into 
+ django's internal apps like admin or 
+ core and it tries to find 
+ a 
+ management command 
+ management package inside it inside that 
+ it tries to find the commands package 
+ and inside that all the modules which 
+ are there they are the management 
+ commands possible management commands 
+ actually so 
+ django actually prepares the list of all 
+ the possible commands that which chango 
+ can have 
+ and 
+ later on it checks with the internal uh 
+ with the enter command 
+ and if it is finding the mesh then it 
+ goes if it could not then it raises the 
+ exception 
+ now django also tries to do some 
+ intelligence here for example i've 
+ written python manner dot pi run so but 
+ django tries to predict that okay t2 
+ main run server so it tries to match the 
+ string with the list and it gets the 
+ this 
+ prediction 
+ now 
+ once this is done then django tries to 
+ load the settings now 
+ what django actually does is that uh 
+ in django and there is an environment 
+ command an environment variable called 
+ django underscore settings underscore 
+ module which is the import path for the 
+ settings 
+ and django actually tries to import that 
+ model to load the settings uh 
+ in case it could not find that module 
+ settings module in that path it resists 
+ exception 
+ uh 
+ django settings are lazy by nature in a 
+ way that 
+ django will not load any any uh django 
+ settings will not actually load any 
+ attribute or anything unless we try to 
+ access this so for example unless we try 
+ to do settings.database settings dot 
+ install app django will not actually 
+ load the settings actually so that's a 
+ kind of a lazy lazy behavior it 
+ implements 
+ now 
+ for example 
+ i have imported the setting with the 
+ django.com.settings and at the time i'm 
+ trying to settings.database at that time 
+ django actually dynamically imports the 
+ that module and loops over all the 
+ attributes and 
+ later on it loads uh in a class called 
+ lazy settings and this is settings uh 
+ class variable has all the key value 
+ pairs now at the time of loading this 
+ setting for django does it also put some 
+ checks for example 
+ uh two settings two two setting variable 
+ cannot be set together or if some 
+ setting variable is set in different way 
+ then it should be the django resistor 
+ bonding because these kind of checks are 
+ generally implemented at the time 
+ uploading the settings 
+ uh 
+ django settings lucy behavior is 
+ actually implemented by the uh 
+ overriding the pythons classmatter such 
+ as category board wrapper set attribute 
+ delete attribute 
+ there is one more way if we don't want 
+ to 
+ load the settings from the 
+ module there is a 
+ method called configure which actually 
+ accepts the key value pair 
+ uh and 
+ that way also we can load the settings 
+ uh 
+ but it needs to be loaded uh so for to 
+ make it happen we will have to load it 
+ before it loads with the uh i mean 
+ before it actually before the server 
+ starts 
+ so that's the way once we have 
+ configured uh with the configure method 
+ we cannot 
+ configure it django resist exception it 
+ says that okay you cannot configure 
+ twice you already configure with 
+ that method or for example you already 
+ loaded with the module so now you cannot 
+ once again set it set set with the new 
+ values later on django calls 
+ django.setup 
+ django.setup actually loads the apps and 
+ the models from all the 
+ all the apps 
+ now 
+ how it happens is that there is a class 
+ called django.apps.registry.apps 
+ and this class has 
+ this class actually stores all the 
+ individual apps app config now all the 
+ app config can be found in individual 
+ apps apps dot py and where we will find 
+ that there is a f config actually 
+ inherited 
+ and 
+ so so so that app.py can have a multiple 
+ uh app config class but one must be 
+ marked with a default true 
+ in case it could not find uh in case it 
+ finds two classes with the default row 
+ then django resistor exception it exits 
+ uh later on django actually 
+ uh loops over 
+ all the all the classes in the models 
+ dot py and it tries to i mean it tries 
+ to find that oh hey i mean tell me what 
+ all models has 
+ uh has a are inherited by the base dot 
+ model in case you find them it loads 
+ them and in the end the app configs 
+ ready method is getting cold and in 
+ ready method we can actually write a 
+ signals resistors custom signals we can 
+ also write some custom logic okay i mean 
+ my models would not have like this so we 
+ can write any sort of logic which will 
+ be called just before loading 
+ uh now in the end run server command 
+ management command will be run so 
+ that module can be found in the course 
+ slash management slash commands list run 
+ server dot py and 
+ uh over there will find that 
+ it is leveraging the django's base http 
+ module and that b32b module contains the 
+ contains a lot of classes and 
+ definitions to how to run http server 
+ so 
+ that's a whole separate module for it 
+ changu 
+ leverages the trading mixing socket 
+ servos trading mixing which actually 
+ whenever we 
+ inherit in any other class then 
+ the class who is in editing it is 
+ empowered by 
+ a feature to spin a tcp or udp setup 
+ server with a reading support 
+ and django also 
+ leverages wsj reference or wsgs server 
+ which in turn 
+ inherits the http server uh which is 
+ also from the python itself and that's 
+ how the whole uh two server gets started 
+ now implementation is multi-threaded 
+ that means uh if we are if if by default 
+ whenever and this will start the 
+ threading is uh enable so to serve each 
+ of the request new thread will be 
+ spawned by django 
+ so now now 
+ let's see like everybody whoever used 
+ the django we have seen that 
+ uh 
+ we 
+ whenever we 
+ modify any file and save it then django 
+ actually reloads itself now how does 
+ that works which angle is the two ways 
+ to do it one is state reloader one other 
+ is a 
+ watchman now straight reloader is a by 
+ default django leverages to 
+ reload what state reloaded does it that 
+ whenever django starts at that time 
+ it goes into six dot module gets a list 
+ of all the modules and stores its 
+ modified time in the sense like file 
+ modified time and one thread spawns in 
+ the background which actually checks 
+ every one second uh saying that is there 
+ any modifier is there any change in the 
+ file modified time if it finds then it 
+ reloads and another approach is a 
+ watchman which is a far better and 
+ performant approach uh to to 
+ use this we will have to install pi 
+ watchman library 
+ uh so what pi watchmen does is that uh 
+ instead of thread is actually looking 
+ for the modified time on lots of files 
+ by running a loop 
+ uh watchman actually leverages the i 
+ notify fs event kq which are provided by 
+ operating system and they actually fires 
+ an event to django process changu 
+ actually captures them and it resists 
+ the it reloads 
+ now we have seen how does run server 
+ works in django and now we have up and 
+ running at tdb server now let's see how 
+ does request works in django 
+ so 
+ we have the server up now here what i'm 
+ trying to do is that i am just simply 
+ sending one 
+ post request on this url and sending a 
+ content type header and draw a key value 
+ by data that's what i'm sending right 
+ now and 
+ if i see 
+ my raw data will be look like this at 
+ the very lower level at the tcp layer at 
+ the 
+ you know 
+ package level so i got this data from 
+ the wired stack that's a packet tracing 
+ tool so here if we see our the curl 
+ request actually got converted into this 
+ kind of text sort of format 
+ and somebody will have to parse it to 
+ get some uh understanding for the django 
+ and electron channel can parse and 
+ return the values now how does that work 
+ so there is a http client it can be 
+ anything it can be browser it can be a 
+ call or any kind of entity because it 
+ did we client 
+ it sends that ttp request to our web 
+ servers web servers are like unicorn uws 
+ gi run server there are a couple of more 
+ but these are pretty much standard ones 
+ and they understand the http so they 
+ understand this kind of broad request 
+ how to pass it later on they actually 
+ communicate with the django code base 
+ with the help of wsgi protocol 
+ and 
+ they also respond with the same protocol 
+ and later on client gets the response 
+ now 
+ uh 
+ so so whenever we see 
+ the package main package baby where we 
+ see the settings.py package or they will 
+ find a wsga.py file and over there we 
+ will find a method called get 
+ wsgi a handler and we will see this kind 
+ of class object is getting returned by 
+ that so it has two methods uh called 
+ init and clause call so init is getting 
+ called whenever there is a 
+ run server start and 
+ call is getting call whenever there is a 
+ request 
+ so 
+ call as the 
+ environment and start response these are 
+ the two 
+ command two function argument which is 
+ getting passed 
+ and uh 
+ how does that work is so so and one 
+ won't actually converts the draw request 
+ into good looking this kind of key value 
+ pairs so if you see here that http 
+ accept is a header but it it's a key 
+ likewise catch control is a header but 
+ it got it to get caught as a key there 
+ is a ws you have to input it's a stream 
+ so dot read method on top of it will 
+ actually get us the 
+ raw raw body data so this kind of and 
+ also it also gets us the wca multi 
+ thread and couple of more environment 
+ variables and lot of this kind of data 
+ which can be leveraged by the 
+ uh server to 
+ response 
+ now 
+ start response can be actually used to 
+ respond to the server so there is a what 
+ what i'm trying to do is like i'm 
+ assigning a header content type text 
+ plane and also assigning a status 200 
+ okay and start response i am 
+ sending the start response of status and 
+ headers and the body which is hello 
+ world that's what i'm returning 
+ so 
+ call method also does couple of other 
+ things such as it has the 
+ uh it calls the get response which is 
+ there in the wsji handler itself 
+ it actually matches the route is route 
+ okay or not it executes all or it change 
+ through all the middlewares then it 
+ executes our view 
+ and it gets the response and returns to 
+ client but here this code is very simple 
+ in django internals 
+ we will find lots of error handling 
+ there try tri-catch there where uh 
+ django want to make sure that if debug 
+ is true then client uh the end client 
+ sees the errors in case it's not true 
+ then uh flight never sees the acceptance 
+ raw exception 
+ now let's come to a very 
+ uh you know very important part in 
+ django let's see how does orm works in 
+ django 
+ so django rm is actually powered by this 
+ many classes now 
+ model is something that we inherit in 
+ all all of our django models 
+ uh we do model dot objects here objects 
+ is a manager 
+ uh query set 
+ uh is a is a class which uh whose object 
+ is getting written whenever we do a 
+ filter query then there is a query class 
+ so query class actually holds that 
+ filter data so for example i'm doing 
+ object.filter and i'm saying name equals 
+ to abc so that name goes to abc that 
+ data will be stored by the query 
+ class and later on this sql compiler 
+ actually compiles over 
+ that query uh that that 
+ filter or create or any sort of query 
+ into good looking raw sql queries and 
+ there is a database wrapper which 
+ communicates with the database with the 
+ help of database driver to get the 
+ result and 
+ that's that's that's how the whole orm 
+ work now let's see in bit detail how 
+ does that works 
+ so here for our example i'm defining two 
+ classes 
+ one is college which has the name and 
+ address and 
+ i'm also defining one more model called 
+ student where there is a name enrollment 
+ number in college college is a foreign 
+ key to 
+ college model 
+ now 
+ if later on if i do this 
+ models.college.org 
+ it will print me all the attributes 
+ attached to that class now we did not 
+ add it right i mean we simply just 
+ defined this but couple of more very 
+ more attributes such as meta does not 
+ exist 
+ uh 
+ this all things are attached so how does 
+ that works in chango how how does that 
+ happen let's see 
+ so 
+ generally we inherit the django.db dot 
+ model.based.model 
+ to our 
+ django models and that base dot model 
+ inherits the django dot dv dot models 
+ dot 
+ uh base dot model base and model base is 
+ actually a meta class to a model so 
+ and that meta class has a new method uh 
+ that 
+ uh so so that new method is getting 
+ called uh whenever we actually import 
+ the import the uh you know some module 
+ or something like so at the time of run 
+ server or at the time we are actually 
+ loading the 
+ models at the time only this new method 
+ is getting called that new 
+ method in that meta class has all the 
+ logic to 
+ load all of this module uh 
+ all of this attribute with the class so 
+ now there is a terminology in django 
+ where 
+ at two class and contribute to class 
+ so what django actually does is that 
+ uh 
+ exactly this meta class does is that it 
+ loops over all the attributes 
+ in that class 
+ uh in that model and it checks hey do 
+ you have this contribute to class method 
+ with you if uh it founds one yeah i mean 
+ that contributor class method is there 
+ then django says okay call one 
+ and that contribute to class method 
+ actually attaches the attribute to our 
+ model instance our model class 
+ and uh two class is generally a 
+ terminology using django where there is 
+ a model and that model itself want to 
+ add something to 
+ uh self so so that's a terminology we 
+ will find in django 
+ uh there is a underscore meta 
+ uh which is an instance of jango dot or 
+ dbi.options.options 
+ and it contains a lot of utilities which 
+ help chango to form the rock query 
+ it contains utilities such as get me all 
+ the related names get me a specific 
+ specific field get me 
+ all the 
+ possible manager get me a default 
+ manager and couple of more i mean lot 
+ more utilities are there in that class 
+ model also has the undiscovered state 
+ which is instance of model state it 
+ stores couple of data such as it stores 
+ the what db we are using 
+ uh from the settings database whatsapp 
+ tv we are using adding is true it's for 
+ the validation so let's suppose that we 
+ have initialized the model with some 
+ quarks for example in the last model uh 
+ we had seen like there is a college so 
+ in a college i'm initializing it with 
+ some name equals to abc address equals 
+ to abc that's something i'm doing so at 
+ the time and later on i'm 
+ calling a co in that model so how can 
+ chango get to know that chango need to 
+ do a update query or insert query so if 
+ there is a adding equals to true then in 
+ that case django will create a insert 
+ query but if adding is false then django 
+ will do 
+ uh update uh update query that's how it 
+ works in django so whenever we did get 
+ the response from the database as a 
+ model object at the time this heading 
+ will be false so on the cu which angle 
+ will do a update query 
+ uh 
+ to gain more performance we can also do 
+ a select related 
+ on the foreign keys so 
+ all the object for the foreign key will 
+ be stored in the field underscore cache 
+ now there are a couple of method which 
+ is very important in django which is 
+ getting called so there is a from 
+ underscore db 
+ and it gets called whenever we get the 
+ response from the database 
+ uh 
+ model implements a couple of methods 
+ which allow certain operations such such 
+ as we can do equal operation we can 
+ convert model to string we can do print 
+ we can convert to hash 
+ we can also do 
+ uh object serializer or serialization on 
+ top of it so in the sense we can do 
+ pickle and pickle on the models 
+ uh so what does model has model has 
+ filled so all the fields like character 
+ field or 
+ integer field all of those are inherited 
+ uh from uh 
+ django.db.modus.field 
+ and 
+ as we had seen the meta class loops over 
+ all the attributes and each x2 have 
+ contributed to class method so our field 
+ has 
+ uh that some of the field has that 
+ contribute to class method which 
+ dynamically adds the 
+ new methods so such as the related names 
+ we we saw that student underscore said 
+ that was a related name that got added 
+ dynamically how did that work because 
+ our foreign key has that contribute to 
+ class uh function which gets called and 
+ it actually adds all the related keys or 
+ related uh names to the model uh for 
+ example if somebody is using date field 
+ so we will get that get next by field 
+ name that's dynamically added so that's 
+ headed by a contribute to class function 
+ now there are certain other uh 
+ like 
+ methods in the field which is also very 
+ important so these two methods are 
+ called used at the migration time to add 
+ new field or to 
+ create a new model at the time this 
+ fields are generally used so for example 
+ uh we are creating our own new field and 
+ what data wrapper or what django has 
+ is the mapping with the 
+ uh django's known filled to a database 
+ field so for example if there is a 
+ character field then it should be very 
+ care with the max line if there is 
+ autofill then this would be a serial so 
+ this kind of mapping is being stored in 
+ the database wrapper class 
+ and whenever we call this get internal 
+ type ideally it should be django's known 
+ type so it gets the real mapping from 
+ for the database but in case we are 
+ creating our custom one for example 
+ there is ip address type just example 
+ and there is no type available in django 
+ then in that case uh 
+ this data type mapping will return none 
+ but django will need 
+ a real database type to do a migration 
+ so in that case db underscore type 
+ method will be called where we can 
+ simply return the real database type for 
+ example it can it can return anything 
+ like ip address is a field and we can 
+ simply return the ip address that's it 
+ and that will be actually passed at the 
+ time of uh 
+ you know row at the time of 
+ migration there is 
+ there are a couple of more methods such 
+ as from db value so for example we got 
+ the response from the database and now 
+ we want to tweak some value or like 
+ something in that value before passing 
+ it to upfront 
+ so 
+ for an example there is a date time 
+ field and we are getting a qtc time zone 
+ in the database from the database and we 
+ want to convert it to our timezone then 
+ from db value can be used 
+ uh get db prep will prep co is the 
+ method which is called just before we 
+ are saving the data into database so we 
+ can modify certain value if you if you 
+ would like to see all of this field are 
+ generally useful when we we are creating 
+ our internal or our own field 
+ in general we don't need to touch these 
+ methods 
+ now let's see the whole crew depression 
+ operation how the whole flow works in 
+ django 
+ so here if we see debug models dot 
+ color dot objects dot create so here 
+ objects is a manager and create is a 
+ method method which will actually create 
+ a new row in the database 
+ now 
+ manager is a class 
+ where uh 
+ where it inherits the 
+ you know it's the class which is 
+ actually created on the fly dynamically 
+ how does work is that there is a base 
+ model and there is a method called from 
+ query set which takes a query set 
+ class as an argument 
+ what it does internally is that it loops 
+ over the query set uh class and it 
+ checks 
+ is there any uh tell me all the methods 
+ which has which are not public in the 
+ sense not starting with the 
+ underscore as well as there is a monkey 
+ patched uh attribute call with all the 
+ functions called query set underscore 
+ only it should be false if this two 
+ conditions are matching that method is 
+ actually eligible to be part of manager 
+ so indirectly most of the 
+ functions such as filter all etc will be 
+ actually we are getting from the uh 
+ from the query set and it is getting 
+ added to a manager 
+ now 
+ whenever we do create 
+ create method uh call at the time save 
+ in the django model is called 
+ uh django's create method returns the 
+ models object 
+ and we can define multiple managers but 
+ underscore default manager must be true 
+ in one of them 
+ so now 
+ let's see another example where 
+ what i have done is that like i have 
+ created the same same instance like 
+ models.collet.object.create and here i'm 
+ passing name address and later on i'm 
+ just doing printing the attributes and 
+ also doing uh 
+ getting a type of that instance if you 
+ see the type of instance it is the same 
+ you know i've got model instance i mean 
+ it's a type of mistake i'm sorry but 
+ it's ideal it should be modest dot 
+ like models dot whatever i mean x would 
+ be path is wrong but it's a college 
+ instance it's the same business actually 
+ that's that's that's that so ideally i 
+ should be getting a name should be a 
+ fill right i'm getting a value 
+ address is also a value ideally i should 
+ be getting a getting a field filled 
+ uh filled class object or something like 
+ this why why that is how how that is 
+ happening in django 
+ so 
+ as we have seen like in past light that 
+ django model is actually override search 
+ uh not over x sorry has a meta class 
+ called 
+ uh model base and uh chango's model does 
+ not have any init method but metaclass 
+ has the init method so whenever we try 
+ to initialize the 
+ uh model at the time metaclass indian 
+ method gets called and if we see the any 
+ attribute so metaclass just has bunch of 
+ method that's it practically there is no 
+ attribute in it so dynamically that 
+ better class init method actually forms 
+ this object and it returns so that's a 
+ way we are getting the real values 
+ instead of getting the 
+ uh the object of the fields 
+ now let's see the query which actually 
+ holds the value for the compiler to form 
+ the row sql queries 
+ now 
+ there is a class called 
+ chango.db.model.sql.query which is a 
+ base class and 
+ it is inherited by multiple queries in 
+ django.db.modus or sql or sub queries uh 
+ that's a module 
+ inside that we'll find multiple classes 
+ such 
+ for example insert query aggregate query 
+ update query 
+ every 
+ class is used for the individual 
+ application 
+ every class has their own method such as 
+ for the insert query it is insert value 
+ for the 
+ update there is add update fill add 
+ related update 
+ there is a add filter in the uh in the 
+ in the aggregate query so all of those 
+ all of this method actually 
+ uh what it does is that they accept 
+ certain values and they simply 
+ store all of those values into the class 
+ variables 
+ and that's what they do on each of that 
+ calls so generally whenever we do 
+ any create or 
+ filter queries at the time this method 
+ is methods are internally getting called 
+ and they simply just updates the values 
+ in the class variable that's it later on 
+ all of this like insert query 
+ or update query all of these classes 
+ also has a class variable called the 
+ compiler and which actually also stores 
+ the detail of our name of the compiler 
+ which needs to be used to convert this 
+ query into a good looking raw sql query 
+ so all the compiler in django can be 
+ found in the 
+ django.dv.module.sql.compiler there is 
+ dot compiler 
+ an individual compiler for each of the 
+ type for example there is a sql insert 
+ compiler to create an insert queries and 
+ a couple of more i will list it down 
+ here 
+ and all of the compiler has the s sql 
+ method which 
+ in general leverages the query objects 
+ or query class instance 
+ so data and converts them into a raw sql 
+ query there is also execute query method 
+ in the all the compiler which actually 
+ leverages the database wrapper 
+ internally and executes the query and 
+ gets the result 
+ so now let's see 
+ one more scenario with the filter so 
+ filter actually returns the query set 
+ object 
+ so query sets holds uh multiple objects 
+ multiple models of multiple objects it's 
+ a container for the objects 
+ query sets are lazy by nature in the 
+ sense once if i execute this then there 
+ is no database operation 
+ is done unless i try to do some 
+ operation such as if i try to print this 
+ the output of this or i try to run a 
+ loop on it or try to find the length 
+ convert to boolean 
+ or try to get specific 
+ index 
+ on that query see so 
+ in if if i try to perform this 
+ application this operation then only 
+ django will actually do a db operation 
+ one more thing 
+ we must have found is that whenever we 
+ do a print on django query sets we are 
+ seeing a limited set of objects so why 
+ does that happens he said django don't 
+ want to kill 
+ our application in case there is there 
+ are millions of records in the database 
+ so what django does it whenever we do a 
+ print at the time django 
+ actually 
+ uh adds a limit of 21 so it gets the 
+ limited set of records query sets has a 
+ cache that means once we have fetched 
+ the record from uh from the database 
+ let's say i run the loop and i got 1000 
+ records and if i try to do a one more 
+ loop then django will not do any 
+ database operation again so they are it 
+ has a catch 
+ uh sometimes we have a millions of 
+ record or very huge amount of data in 
+ the table and we don't want our 
+ uh applications to be killed so there is 
+ a query dot iterator method where we can 
+ pass the 
+ chunk size uh to some value what it will 
+ do is like it will fetch the 
+ uh values from the database in smaller 
+ chunks of 100 
+ uh but the 
+ drawback of this is that it will later 
+ not catch the results so 
+ as many of time i will run the loop or 
+ django will do a database operation 
+ uh 
+ shango.dv.module.sql.query is the class 
+ which is used to form the select query 
+ it has couple of methods such as add 
+ filter add queue and select related 
+ add-on notation add extra add ordering 
+ they are doing nothing they are simply 
+ adding the uh or updating the values 
+ into the individual class variables 
+ that's what they are doing and in turn 
+ there is a sql compiler which takes the 
+ query instance as an argument and it 
+ forms a raw query and they are 
+ leveraging the database wrapper to 
+ execute it 
+ so 
+ in further all the application we will 
+ find the 
+ sql compiler has to sql and execute 
+ query that's a steam step uh 
+ behind the scene internally in the 
+ django just the upper of the query class 
+ and the and the compiler is changing 
+ that's it 
+ so let's see how does this chaining 
+ works so if we we can see there is a 
+ filter and then i'm doing another filter 
+ i can also do update how does it works 
+ so in general 
+ dot filter is actually returning a query 
+ set object which is a filter method so 
+ simple basically uh that query sided 
+ filter so again that is getting called 
+ so internally what is happening is that 
+ whenever we do this kind of chaining 
+ then chango is doing no operations so 
+ this filter is reading very set and 
+ again this address underscore underscore 
+ contents is getting changed inside the 
+ uh inside the class variable no 
+ databases operations are happening 
+ and again like whenever we try to do 
+ operation then sql compiler will be 
+ called and sql will generally convert 
+ into raw queries and uh execute and uh 
+ the electron execute query method will 
+ execute with the help of database 
+ wrapper and that's it 
+ now let's see how does update works in 
+ django so 
+ update query actually does the 
+ uh 
+ does the real 
+ update database update query 
+ and it returns the number of records 
+ updated it will not 
+ do any send any kind of signals like 
+ post or pre-delete sort of signals uh 
+ django 
+ has uh django leverages 
+ jango.tb.monass.sequel.subquerys.updatequery 
+ that's a class which it uses to hold the 
+ data it has couple of methods such as 
+ add update values add related update and 
+ much more to store the data 
+ for the query uh 
+ for the for the compiler to generate the 
+ raw queries there is a sql update 
+ compiler which will be 
+ used to 
+ uh generate the update queries 
+ now let's see how does delete works in 
+ django 
+ so django delete will do a delete query 
+ in django but uh 
+ not like update 
+ but it will actually uh send the pre and 
+ post delete signals to all of the object 
+ which are deleted so if here if we are 
+ seeing like i am doing a 
+ doing a filter with navy goes to abc 
+ college 
+ but uh in term my dog query is looking 
+ like this delete call debug college 
+ where debug college ide so 
+ how does it works and why django is 
+ doing it django is doing it because 
+ django want to send a pre and post 
+ signals after the deletion takes place 
+ so django has the 
+ change.db.monsterdelison.collector class 
+ which does the filter query to the 
+ database gets a list of objects which 
+ needs to be deleted and later on it 
+ forms the query with the 
+ with the id in in the sense it deletes 
+ by the primary keys 
+ now 
+ later on this class also sends the pre 
+ and 
+ pre and post signals uh there is a 
+ sequel delayed compiler which actually 
+ forms the rho sql rho sql query 
+ uh 
+ what will happen to my related object 
+ that depends on what is the value we 
+ have given to 
+ uh 
+ on delete uh 
+ at the time of defining the foreign keys 
+ uh so there is there are three options 
+ available cascade protect and restrict 
+ so in case of cascade yes my related 
+ object will be deleted because a real 
+ cascade query will be done by chango uh 
+ protake will not allow such operation 
+ the net object cannot be deleted and 
+ restrict will check okay is there any 
+ any object related to this uh 
+ this uh 
+ object uh 
+ if it finds so then it will not allow 
+ but in case it finds it it could not 
+ find any object related to that object 
+ then it allows to delete 
+ and generally for the better performance 
+ raw queries should be used for the 
+ better performance but uh the topic is 
+ that 
+ there won't be any pre or post signals 
+ now let's see the database wrappers so 
+ database wrappers are generally 
+ different for individual databases for 
+ example 
+ if i want to see the postgres one then 
+ django.db.bakins.postgres.base.py that's 
+ where i will find the postgres database 
+ wrapper if i want to go for the mysql 
+ then again back inside 
+ this mysql so this will be different for 
+ each of the databases why django is 
+ doing it because every database is 
+ different every database has a different 
+ syntax to do the things every database 
+ supports some features and that's the 
+ reason they are separate 
+ uh it provides some methods to create a 
+ new connection get me new connection 
+ uh it also contains the django's known 
+ type two db type method db type mapping 
+ so for example if you know this these 
+ are examples for the postgres uh this 
+ example i got for the postgres backend 
+ so there is a class variable called data 
+ underscore type where it's a mapping if 
+ i'm defining autofill then in database 
+ it will be serial data a serial data 
+ type uh binary field then itself byte so 
+ then again certain other things are also 
+ defined like if i'm doing exit then how 
+ the syntax look like so it will be 
+ equals to percentages so percentages we 
+ will be 
+ replaced by the real value 
+ then contents is like like percentage s 
+ then there is a patent matching then 
+ again it's a defined here actually this 
+ is how django will actually make the 
+ queries 
+ there is a class called database feature 
+ so not all databases are same as i just 
+ said so some databases support some 
+ features some doesn't so 
+ what django does is that there are lots 
+ of class variable in this 
+ in this database feature which is 
+ boolean in nature and at the time of 
+ forming the 
+ rock query or like sql compiler 
+ leverages this this database feature 
+ class or 
+ or 
+ it also restricts some of the operations 
+ so for example if i'm doing some 
+ operation on query set at that time 
+ chango raises the exception 
+ okay 
+ uh 
+ so that's that's the that's a thing for 
+ the 
+ database feature 
+ now let's see the class called the 
+ database operations so every db has a 
+ different syntax for running some 
+ different kind of queries so for example 
+ set time zone can be a different sequel 
+ in in mysql it might be different syntax 
+ in the in the 
+ postgres 
+ so 
+ this all standard methods are there for 
+ example set time zone sql so 
+ it has the so this is a function which 
+ actually returns the query like this set 
+ time zone percentage s so this 
+ percentages value will be later on be in 
+ replacing the query uh it also contains 
+ lots of this kind of function like data 
+ update time cast date sql so there might 
+ be some 
+ in some databases it can be databases it 
+ can be like uh like data type and it's a 
+ function in the database somewhere it 
+ can be date space 
+ so for like in postgres it can be like 
+ for example double column and data type 
+ so all of those things are pretty much 
+ defined in these methods 
+ so 
+ that's it thank you very much guys 
+ uh any any 
+ if you questions have a question just go 
+ to the middle 
+ hey thanks for the talk i was really 
+ good um did you find it difficult to put 
+ together with django changing through 
+ different versions to put together a 
+ talk or was this 
+ with the internals that you discussed 
+ sort of common to different versions i 
+ know it was django two django three and 
+ i think there's during before now was it 
+ was it difficult to with like sort of a 
+ moving target to try to put together a 
+ talk such as this okay can you repeat i 
+ um just was it was it difficult to put 
+ together talk because like django 
+ changes like like but django changes as 
+ time goes by so you've kind of like 
+ um what what what could be an internal 
+ in one version of django is not the same 
+ okay the next version yeah so 
+ see i mean in general version changes 
+ here i mean uh that there are there can 
+ be some changes but it depends the 
+ depends on the what is coming in the 
+ future version 
+ but 
+ i have 
+ i have not seen lots of changes 
+ i i have seen like couple of very you 
+ know small set of things are changing or 
+ i can say 20 percent or 
+ set set of things are changing but not 
+ whole set of things are changing and if 
+ there is some whole new set of features 
+ are being added then django also makes 
+ sure that other feature is not being 
+ break so they make it safe so your 
+ existing code is anyways not going away 
+ in one sort so they also give a warning 
+ like we are going to deprecate after 
+ this person that person so 
+ we will not find that okay suddenly that 
+ code is not there we'll find it for some 
+ time and then one or two person we will 
+ find that okay that's being modified 
+ actually hope i answered your question 
+ yeah definitely yeah thank you 
+ all right and if there's no other 
+ questions then 
+ we'll get ready for the next speaker 
+ thank you 
+ thank you 
+ [Applause] 
+ thank you 
+ um 
+ um 
+ okay now let's welcome our next speaker 
+ doing uh maps of django follow me 
+ so thank you 
+ hello everyone i'm very very happy to be 
+ here with you all in person 
+ finally so in this room has never has 
+ ever used a web map 
+ oh a few people okay 
+ and who knows what jungle is 
+ perfect in this talk we see together 
+ how to build web maps from scratch with 
+ django obviously 
+ if you're asking yourself what type of 
+ maps we can build with django let's see 
+ an example right away 
+ these maps show mountain peaks all 
+ around the world and we'll use 
+ we'll use map like this every day in 
+ mobile application or websites 
+ and i built these maps 
+ with django using the natural heart map 
+ data set 
+ and in this work we see together how to 
+ build 
+ map like this 
+ no 
+ maybe 
+ uh but first i present myself 
+ so i'm paulo mckiare and the city of 
+ 20tab apatonic software company based in 
+ rome in italy i'm a software engineer 
+ and long-time python backend developer 
+ after using django for a few years i 
+ became a contributor to the project and 
+ i've always loved attending conferences 
+ like this and over the year became a 
+ speaker 
+ i also 
+ really like hiking in the mountains so i 
+ decided to build them up where i can put 
+ all the mountain peaks i've reached 
+ i took this photo from the starting 
+ point 
+ i won my last hike 
+ i was in the italian penins in the 
+ central part of italy and design has not 
+ yet risen but trust me 
+ in the distance there is the adriatic 
+ scene 
+ and 
+ this 
+ is annoying uh 
+ the making of this map 
+ will be a bit like this ike 
+ will start from an easy stretch and we 
+ go up in altitudes where things get more 
+ challenging 
+ but let's start from the basic about web 
+ maps 
+ a web map 
+ have many features it can be static or 
+ dynamic you can interact with it or you 
+ can only view it the map can use raster 
+ vector tiles to represent the surface 
+ but usually the data is stored in a 
+ special database and webmap will use 
+ javascript library to show data on your 
+ webpage 
+ on wikipedia regarding web maps we can 
+ read that web map is the process of 
+ using the maps 
+ delivered by geographic information 
+ system 
+ on the internet 
+ but implementing a geographic 
+ information system from scratch is 
+ beyond the scope of this torque to do 
+ this as you can imagine 
+ we are going to use django my preferred 
+ web framework 
+ now this cable today is not working 
+ so the requirements to create our map 
+ with django are as stable and supported 
+ version of python and the latest stable 
+ version of django itself 
+ my sample i've installed it in a virtual 
+ environment 
+ and i suggest to you to do the same 
+ to create the mymap project i switch to 
+ my 
+ project directory and then use the start 
+ project jungle command 
+ and the basic file of our project will 
+ be created for us 
+ after switching to the my map directory 
+ we create our markers hub with the 
+ jungle startup command 
+ again all the necessary file will be 
+ created for us 
+ it will be 
+ very hard 
+ now where to activate our markers 
+ application by inserting its name in the 
+ list of installed apps 
+ in the mymap setting 
+ file at this point we can proceed to 
+ insert in the markers view file a new 
+ template view for the page of our map 
+ in the marker templates directory we can 
+ now create a template file for our map 
+ for now we had only usually boilerplate 
+ without title but without a body content 
+ in the markers url 
+ we must now add the parts of our 
+ the view map using its template view 
+ as a last step we include in turn the 
+ url file of the marker up in that of the 
+ project we just made a first view in 
+ django 
+ but it will show only a blank page so we 
+ can move on 
+ to something more challenging 
+ okay i took this other photo after 
+ after half an hour of walking in the 
+ dark 
+ you can see the sunrise in the distance 
+ and we are about to start at the high 
+ altitude path 
+ as for your hike something will be 
+ beginning to be seen in our project as 
+ well in fact we had 
+ a blank map page using lifted library 
+ leaflet is one of the most used 
+ javascript library for web maps it's a 
+ free software and it's desktop and 
+ mobile friendly l is very light it 
+ weighs just over 40 kilobytes 
+ it has a very good documentation that 
+ you can read directly online 
+ to use leaflet we need to link its 
+ javascript and css module 
+ in our template 
+ we need 
+ sorry 
+ this one this time 
+ we need also a div tag with a specific 
+ id in addition using the django static 
+ template tag 
+ will also link our custom javascript css 
+ file 
+ which will now create 
+ we add our css file in the static 
+ directory and inside it we had only the 
+ basic rule to show to show a full map 
+ a full screen map 
+ in our javascript file we add the code 
+ to view our map using the defined 
+ variables we initialize an openstreetmap 
+ layer we look the newly defined layer to 
+ our map 
+ and the last statement sets a map view 
+ that mostly contain the wall world with 
+ the maximum zoom level possible 
+ so we can now start um the django 
+ project with the run server command and 
+ finally visit our map page in the 
+ browser 
+ that's it we just created an empty map 
+ with django and the result is much 
+ pretty much what you see now 
+ i'm up without markers showing the wall 
+ words 
+ this photo showed a crossroad at the end 
+ of the first part of my hike just before 
+ a very challenging appeal stretch 
+ the sauna reason 
+ and the landscape is visible around and 
+ likewise after having visualized our map 
+ we will now start with a mid 
+ a bit more elaborate part 
+ writing more codes to create our marker 
+ and display them 
+ it's time to get to know and activate 
+ geodjango the django geographic module 
+ django added geographic functionality a 
+ few years ago in the country gis module 
+ with specific fields database backend 
+ special queries and also admin 
+ integration 
+ since then many new useful features have 
+ been headed every year until the latest 
+ version 
+ and before activating hits we need to 
+ install some requirements 
+ a mandatory 
+ geodjango requirements is 
+ g d e l 
+ i promise 
+ it's an 
+ os geo library for reading writing 
+ raster and vector geospatial data i 
+ don't know why it's working so bad now 
+ no it's not simple 
+ okay 
+ um it's released with a free 
+ software license and it's a very useful 
+ command line for data translation and 
+ processing 
+ to easily install gdeil package on 
+ debian and 
+ you can use the apt package manager but 
+ for other operating system you can read 
+ specific instruction in the django 
+ documentation 
+ we can now activate geodjango by adding 
+ the contrib gis module to the installed 
+ apps 
+ and in our project settings 
+ to use geodjango we need to change our 
+ database engine and 
+ we use one of the compatible database 
+ backend in this case we have chosen to 
+ use spatialite it's a special extension 
+ for sqlite the django defaulted database 
+ backend 
+ it provides a vector geodatabase 
+ functionality and it's released with 
+ free software license 
+ it's a very simple architecture 
+ a complete database in an ordinary file 
+ as before on debian based system we can 
+ install a specialized package using the 
+ rpt package manager 
+ so let's add the special light 
+ as a database backend 
+ setting the default engine in our 
+ project setting 
+ we can now 
+ finally define our marker model store 
+ location and a name 
+ our two fields are both mandatory the 
+ location is a simple point field and 
+ we'll use the name to represent 
+ the model 
+ to easily insert new markers in the map 
+ we use the django admin interface and we 
+ define marker admin class by inverting 
+ the gis model admin class 
+ which uses the openstreetmap layer in 
+ its widget 
+ so now we can generate a new database 
+ migration and then apply it to our 
+ database we also create a new super user 
+ to access the admin interface and after 
+ starting the project locally 
+ we can now start the project as usually 
+ with with run server and we can visit 
+ the admin in the browser if 
+ it's true okay 
+ here is the page for inserting the 
+ markers in our admin 
+ as you can see we have a text field to 
+ enter the name of the spot and a gis 
+ widget that we can use to manually 
+ navigate the map and then manually 
+ define our point in the space 
+ in this case it's the 
+ the peaks our i want to reach 
+ so after having created more markers 
+ with the admin we can finally show them 
+ in our map 
+ and we can do that by adding the 
+ information in our view 
+ here we are retrieving the all the 
+ markers from the database 
+ and converting them to geo json before 
+ adding them to the context of our view 
+ in our template we use the 
+ json script template tagged 
+ sorry 
+ it's totally random 
+ nope to um sorry 
+ in our template we use geo json script 
+ template tag to add our markers in our 
+ page 
+ the 
+ geo json script 
+ no 
+ the geo json script template tag will 
+ generate a code like this 
+ json 
+ geo json codes 
+ so let's edit our javascript file and 
+ store the view json in a variable 
+ starting from this variable we build a 
+ layer for our map and we extract also 
+ the name of the single marker for our 
+ label and finally we had the layer in 
+ our map 
+ by setting the view to contain all the 
+ data 
+ we can now start again our project with 
+ the run server command and see again in 
+ our browser 
+ so 
+ this is the map in this map we see a few 
+ markers i uploaded through the admin 
+ and they are inside the page code but 
+ the loading is still fluid and fast you 
+ can also see the pop-up marker 
+ maybe 
+ of the peak and 
+ but if we had a lot of more marker to 
+ show 
+ our map loading 
+ will 
+ will be much slower and leaflet will 
+ have a harder time rendering it 
+ so we need 
+ a better solution 
+ these photos show a beautiful landscape 
+ and 
+ at the end of a challenging climb the 
+ highest peaks begin to be seen around 
+ but there are still challenging passages 
+ before reaching the summit so we 
+ then continue implementing the final 
+ version of our map 
+ first let's start using post gis 
+ as uh the new backend engine 
+ pos gis is a 
+ a postgres extension and it's also the 
+ best database make hand you can use for 
+ geodjango 
+ it in 
+ um 
+ i tried 
+ sorry for 
+ for this 
+ okay 
+ so it internally integrates special data 
+ and has special data types indexes and 
+ functions 
+ in order to use post.js as a database 
+ backend we need to install the postgres 
+ postgres seal client library 
+ and as before you can do it with the apt 
+ package manager 
+ now we modify the project database 
+ setting adding the pos gis engine and 
+ the connection parameter 
+ for our postgres database 
+ which you can have locally or remotely 
+ so the python requirements 
+ it's a funny presentation today 
+ well 
+ okay 
+ okay 
+ the python requirements of our project 
+ are increasing and therefore 
+ a good practice it's to create a 
+ requirement file with the package list 
+ we'll use the python postgres database 
+ adapter django rest framework 
+ it's geographic add-on and also django 
+ filter 
+ we install all the python requirements 
+ using the python package installer 
+ module 
+ the package that we use directly in the 
+ code of our project are django rest 
+ framework and its geographic add-on 
+ which we then insert in the list of the 
+ installed apps of our project settings 
+ so let's create a serializer for our 
+ marker class in ordering from 
+ res framework gis serializer we only 
+ have to define the optional field to be 
+ shown as additional property 
+ the geographic field location 
+ and maybe and 
+ sorry 
+ and the model marker 
+ so orientation is to expose our markers 
+ via a restful api and to do so we define 
+ a read-only view set 
+ we set the location as a field to filter 
+ our markers 
+ and then a filter based on pound box 
+ we also return all our marker instances 
+ without any limitation or filters 
+ okay 
+ so in the markers application we define 
+ the url of our new endpoint using the 
+ django rest framework default router to 
+ create our paths 
+ and finally we add the definition of the 
+ url of our project 
+ and we had a new path for the api that 
+ includes 
+ the path 
+ specified for our markers app 
+ sorry 
+ so 
+ after finishing our 
+ restful api we move on to update our 
+ javascript file 
+ as we no longer have the data preloaded 
+ in our page 
+ we no longer have a way to position the 
+ map so that it contains all the markers 
+ so we try to locate the user 
+ in the positive case if the user 
+ authorized they have the map we use its 
+ location to center the map 
+ in the negative case 
+ we locate him in an arbitrary 
+ point in the 
+ atlantic ocean and with a low zoom level 
+ the zero points 
+ so by no longer loading the marker the 
+ markers directly on the page we 
+ therefore ask our end point to return 
+ only the markers of the specified 
+ displayed area 
+ paste 
+ as a bond by a bank box string 
+ to build the marker layer we ask our 
+ endpoint for data asynchronously and 
+ extract the properties we want to show 
+ in the popups 
+ we invoke this flow every time the user 
+ stop moving on the map 
+ and finally here is our complete map 
+ in this example we can see how the 
+ markers in a specif 
+ specific map are look 
+ and if it work 
+ i don't know 
+ the more time 
+ so the one the loading take 
+ place very fluid not in the video 
+ because the number of cal occurs only 
+ when the movement of the map stop and 
+ therefore the data traffic is is reduced 
+ to the essential 
+ and the rendering is carried by leaflet 
+ very well so 
+ that's it 
+ sorry 
+ start again 
+ okay 
+ okay is our map project the hike 
+ no 
+ maybe 
+ as 
+ my project that i also also reached its 
+ final destination 
+ the view is a bit covered but we can 
+ finally add the new marker to the map 
+ with this points and it 
+ it was one of the longest hike i ever 
+ made 
+ and i hope to be able to do new ones 
+ soon 
+ and show you if it's work 
+ at the end 
+ sorry 
+ so there are also many other features 
+ that we can add in the future in a map 
+ for example marker customization pop-ups 
+ to show more information 
+ filtering based on relational data not 
+ only geographic 
+ clustering of the marker both in the 
+ front and back end 
+ and also using geocoding services to add 
+ marker locations starting from an 
+ address for example and so on 
+ before before saying goodbye i want to 
+ share with you some tips 
+ based on my experience as a map 
+ developers with django 
+ it's strange 
+ only two more slides 
+ so the first suggestion is you read the 
+ documentation in the django website 
+ because it's full information about 
+ geodjango but also read the details 
+ about how things work 
+ in the pos gis documentation 
+ and read the source code 
+ of the board project on github because 
+ there is something you can learn only 
+ from the source code unfortunately 
+ and last one is search for question on 
+ stack exchange but try to answer the 
+ question and not 
+ not read the solution because it's a way 
+ to improve 
+ last but not least you can also study 
+ this presentation because it's released 
+ with a creative commons license 
+ and 
+ maybe i can finish 
+ okay 
+ okay 20 tab 
+ the company i work for we have developed 
+ many map with django and you can find 
+ out more about open source project and 
+ platonic work using this context 
+ and last one 
+ to find out more about my personal work 
+ with python and django you can use also 
+ my contacts with this qr code you can 
+ download this presentation 
+ on my website it's already there 
+ and 
+ thanks for your patience thanks again 
+ for having me and enjoy the next talk in 
+ the conference 
+ [Applause] 
+ so if there is some questions i'm 
+ available now and also after 
+ the talk and i don't know if there is 
+ some in online no no live question 
+ no question about the 
+ uh connector you for the uh for the 
+ interesting talk it's it's great to see 
+ what you can do with django on this side 
+ of things i haven't experienced it 
+ before and i appreciate you soldering on 
+ through the technical difficulties as 
+ well 
+ um do you have any recommendations in 
+ terms of tile sets hosting that sort of 
+ thing do you recommend that you know you 
+ try and serve those 
+ files statically with in the static 
+ files of django or 
+ relying on a third-party api service or 
+ anything like that 
+ yeah we used this 
+ technique to host 
+ internally 
+ everything for our project so 
+ we 
+ used only external tiles from my box or 
+ the free one from open openstreetmap and 
+ i think with postjs 
+ maybe with a managed solution with 
+ postgres you can solve 
+ 90 percent of the world 
+ problem 
+ you can have in a project 
+ only if you are very big like big 
+ company you need some more complex 
+ solution but 
+ for 
+ maybe one million user we use postgis 
+ postgres no problem 
+ a week at the point you can you have to 
+ start clusterizing or doing something 
+ like that but 
+ everything you can do directly with 
+ django and postgres 
+ thank you for your question 
+ and i want to thank also the 
+ technical 
+ assistance so if there is no other 
+ question 
+ i say goodbye thank you 
+ [Applause] 
+ no it's there 
+ um 
+ um 
+ okay 
+ hello everyone welcome to the next 
+ session acing django with uh 
+ evaluate 
+ [Applause] 
+ hey 
+ oh 
+ sorry about that we'll make a quick 
+ correction 
+ in this place 
+ okay 
+ rest of the live demo 
+ uh yeah first of all thank you for 
+ coming uh 
+ let me ask you how many of us have used 
+ django or jungle in daily daily work 
+ great that's great 
+ okay i'll first quickly introduce myself 
+ before we start uh my name is sivayo 
+ donchiff 
+ i'm from bulgaria 
+ i'm a technical team lead in 
+ hacksoft in a 
+ software company in bulgaria 
+ we're basically 
+ using jungle a lot i mean a lot 
+ and 
+ yeah we aim to be up to date with the 
+ latest jungle trading and that's why the 
+ topic of facing jungle game 
+ it's not something new 
+ we know it like three years ago with 
+ jungle 3.1 
+ but it's nothing that's still growing 
+ it's not it's not yet 
+ it's not just established as a standard 
+ so 
+ when we had the async jungle if you open 
+ the documentation you see that 
+ and then when i open it my first thought 
+ was okay 
+ it seems like i need to just put an 
+ async keyword uh before my dev 
+ definition of the view 
+ and that's all and it works it really 
+ works 
+ but 
+ then i said to myself okay i'm going to 
+ to execute on orm query 
+ and i got that 
+ and i was like okay i put this magic 
+ async word whatever it means before my 
+ view 
+ isn't it already async 
+ yeah i knew nothing at that point 
+ so let's first go through the terms 
+ what's the difference between sync and 
+ tasting 
+ well 
+ the standard python code that we use in 
+ django is synchronous it means that we 
+ define a sequence of actions that will 
+ be executed once at a time 
+ the asynchronous code is another pattern 
+ you basically define a set of actions 
+ that needs to be executed 
+ not necessarily 
+ in the same order 
+ and they they need to be executed 
+ concurrently 
+ and potentially in parallel 
+ so what's the difference 
+ you can 
+ if two things are going parallel it 
+ means they're making they're actually 
+ making progress at the same 
+ point 
+ so will see that in the examples after 
+ that 
+ so on our question how many of you have 
+ used async python 
+ okay great 
+ i'm gonna quickly go through this and 
+ so we basically have three main tools 
+ uh for async python 
+ we have other but this is the tree that 
+ we are going to focus on 
+ we have process we have threads and we 
+ have coordinates 
+ so multi-processing what that means 
+ is basically 
+ a python way to start a physically start 
+ a new process in the operating system 
+ that potentially could be handled by 
+ another cpu 
+ so that that's basically the the way to 
+ scale and use your cpus from your or 
+ your python program 
+ and it's really powerful for for heavy 
+ calculations 
+ trading 
+ okay so trading in python are not like 
+ trading in 
+ some other languages like java for 
+ example 
+ you you use threat in java to use 
+ another cpu and basically gain more cpu 
+ power 
+ in python because of the global 
+ interpreter work you cannot do that 
+ because 
+ c python is not thread safe 
+ the decision has been made to introduce 
+ this global interpreter walk on top of c 
+ python 
+ that basically 
+ prevents 
+ a single cpu to 
+ or a single process to handle more than 
+ one threat 
+ so basically cannot scale 
+ and scale in cpus but you can 
+ unblock your i o operations 
+ i see that 
+ uh 
+ so yeah there is a really good talk of 
+ david billy that he said the threats it 
+ buying you the ability to stop and walk 
+ basically 
+ so yeah let's see an example 
+ we have a simple function that 
+ only sleeps for two seconds 
+ we use time sleep a lot in this 
+ presentation you can think of it as a 
+ equivalent 
+ equivalent to an oram query or 
+ or calling the third party they're all i 
+ o operations 
+ so if i want to execute 
+ this code five times this function 
+ normally i'll 
+ make a forward and just run it five 
+ times 
+ if i want to make it concurrently and in 
+ parallel 
+ i'll then import this trading module 
+ pass the 
+ function then 
+ start all the threads which will 
+ basically tell the operating system that 
+ it should make start making progress on 
+ them 
+ and then wait for them to finish 
+ and we can see in the example that 
+ they're actually sleeping at the same 
+ time 
+ without 
+ each one blocking the others 
+ so yeah we have process and threats 
+ but 
+ since python 3 we have a really good 
+ interface to another pattern of facing 
+ programming 
+ and this is the 
+ async io module 
+ and basically the 
+ asynchroid keyword that came with python 
+ 3. 
+ the key thing here is that you're 
+ getting exactly the same benefits that 
+ you would get with threads 
+ but core genes are faster than threats 
+ because the implementation of the 
+ uh of the curtains 
+ and 
+ they run inside the thread 
+ and if you if you run accordions and try 
+ to up we call that async threat 
+ and the other key thing is threats are 
+ cooperative 
+ we'll see that in the next example why 
+ so how do you use that 
+ first you need to start 
+ your main function in async io loop 
+ then 
+ each function each chord in 
+ is a standard python function but it 
+ needs to be defined with this async word 
+ before that 
+ and basically if you want your 
+ colonizing function 
+ you need to await it 
+ so yeah here's a more complex example 
+ you have the main function 
+ that's 
+ awaiting 
+ a coordinating function twice 
+ which is calling a synchronous function 
+ which is we don't have a problem of that 
+ you can 
+ actually call synchronous code 
+ in asynchronous context 
+ but this is this is actually really 
+ dangerous in i told you that the 
+ curtains are cooperative 
+ and we see that in this example 
+ we have two chords good chordin which 
+ uses the async io sleep that's the 
+ time sleep equivalent 
+ in async context that doesn't actually 
+ block the entire thread 
+ and you have a bad quality in that use a 
+ standard time slip 
+ that actually blocks the thread 
+ and then we see what we call it 
+ asynchronous getter which is the python 
+ way to say 
+ i wait for all this quartering 
+ concurrently 
+ so what happens is that both functions 
+ sleep 
+ for five seconds 
+ we have 
+ a thousand coordinates 
+ starting then they they wait for the one 
+ quarter in that block the thread 
+ to finish and then continue basically 
+ mean if you have 
+ one bad curtain it could ruin the day 
+ for everyone 
+ basically 
+ so yeah that's that's really dangerous 
+ and 
+ the rule number one is don't block the 
+ main threat 
+ that's the the most important thing 
+ and then we have the futures library 
+ futures library is the 
+ high-level interface that uh com that 
+ uses both processes threads and curtains 
+ so 
+ if you have 
+ if we have these three two links 
+ let's say 
+ what what if we can actually call 
+ we can actually make the async python 
+ and the synchronous python to talk each 
+ other and make a blocking operation from 
+ the synchronous python 
+ for example from some legacy code 
+ that doesn't actually block the main 
+ thread 
+ and we can do that 
+ let's say we we want to interface that 
+ just a decorator a magic decorator that 
+ puts this into event warp and doesn't 
+ blow the thread 
+ let's say that decorator looks like this 
+ it's a pretty complex 
+ but what it does is 
+ basically runs the threadful executor 
+ which is a class instantiated from the 
+ futures and starts a new threat 
+ throws the function there 
+ making so-called future or awaitable 
+ objects that behaves like a core routine 
+ then you can actually use it as a core 
+ team but it's actually you're you're 
+ moving your code to another thread and 
+ waiting to finish your main thread 
+ so yeah just keep in mind this example 
+ we'll get back to it later 
+ oh i think jungle 
+ uh we're going to see this picture a lot 
+ i think it's really 
+ really nice this it shows on a high 
+ level what's happening into the request 
+ response cycle in django 
+ um 
+ that's how it normally looks like we 
+ have an engine x that usually behaves 
+ like a load balancer 
+ then the request goes to the usb 
+ then it moves through a chain of 
+ middlewares 
+ it hits our view of the business logic 
+ and meanwhile communicates with the orm 
+ so the first bottleneck of introducing 
+ asynchronous uh behavior in django is 
+ the views 
+ and that's the tools that we have 
+ process threads and core genes 
+ well we don't really talk much about the 
+ processes because the websites and web 
+ apps are by definition more io heavily 
+ not more cpu heavily normally when you 
+ make http request your website 
+ communicates with the database or 
+ calling the third party rather than 
+ making some calculations 
+ so yeah let's see what if we use threads 
+ in our reviews 
+ this example it looks strange it 
+ actually works 
+ you can actually start new threads and 
+ make an 
+ orange query or send email then 
+ start for them to finish and then 
+ start them then wait for them to finish 
+ but 
+ that's first hard to manage 
+ then how do you handle exceptions i mean 
+ that's the entire new threat 
+ what happens with the transaction atomic 
+ by the way transaction atomic 
+ the key the key point here is that the 
+ database connection in django is thread 
+ bound 
+ so if you start on your thread you 
+ forget about the transaction atomic in 
+ the same context 
+ and that's not good for data fetching 
+ obviously 
+ so 
+ it's clear that jungle 
+ went with a sync io for this behavior we 
+ have 
+ this small example with uh 
+ this view 
+ and that that would work but 
+ we don't have the event opening 
+ that was the first problem when 
+ introducing these views 
+ and that leads us to the second 
+ bottleneck the whiskey 
+ what is whiskey whiskey 
+ is 
+ maybe one of the best thing that happens 
+ to python it's actually the standard 
+ that make 
+ python suitable for web programming it's 
+ used for for from django from fast api 
+ flask anyway framework basically 
+ it defines a single interface for that 
+ but it's never made to be async that's 
+ not that was not the idea of it so we 
+ need a new new new standard 
+ we need the aggie asynchronous server 
+ gateway interface 
+ and this is a code from documentation 
+ give the spiritual successor to wiki 
+ it's basically 
+ adding an event loop implementation and 
+ provide an interface for core things 
+ so we saw that we have an interface for 
+ coroutines uh in the gateway interface 
+ and on the other side we have 
+ a way to define asynchronous view 
+ but we have middlewares between them how 
+ do we handle them 
+ well 
+ here's how a standard middleware looks 
+ like 
+ it's a 
+ basically a 
+ higher order function 
+ that accepts a 
+ get response function that will handle 
+ the the business logic 
+ and the new thing here is that this 
+ function could be a standard python 
+ function or could be a core team so 
+ we basically need an e-file statement 
+ that checks if this is a core thing 
+ but the next problem is how does the 
+ asgi 
+ knows if 
+ your middleware is already handling both 
+ coordinates and standard functions 
+ because it will it would be good if 
+ you have some not suitable middleware to 
+ get a warning about that 
+ well we have decorators that comes out 
+ of the box from django 
+ and what they do is 
+ just attaching 
+ two new properties 
+ uh 
+ to your middleware so if you imagine the 
+ algae server 
+ like a 
+ four wolf handling request 
+ it checks the the view check the 
+ middlewares 
+ if there are anything capable 
+ and then pass the request 
+ and that's that's actually the official 
+ example from the jungle documentation 
+ that's how it looks like to write an 
+ async middleware 
+ but 
+ this decorator is more or less 
+ depending on the good will of the 
+ developers 
+ so let's say you're installing a third 
+ party which is making a blocking 
+ operation inside the middleware like 
+ rmquery 
+ and they didn't put the 
+ decorator so what happens then uh i'm 
+ telling you from my experience a few 
+ hours of debugging uh it's you sending a 
+ request 
+ you're sending a bunch of requests and 
+ you know that you have async apis but 
+ they all behave as synchronous apis 
+ because because the 
+ middleware is like if you know it blocks 
+ the main thread it doesn't allow the 
+ junk to be async 
+ so yeah just just to have in mind 
+ some bad experience 
+ and yeah this is my favorite part the 
+ aura 
+ so 
+ imagine that you're 
+ a jungle core developer and you have a 
+ project that's like 15 years old 
+ and the most complex module inside 
+ is never made to be async where where do 
+ you start from and you cannot start from 
+ scratch 
+ obviously 
+ so 
+ we we can't 
+ we don't have an easy way to do that 
+ because the database at first of all 
+ database adapter is synchronous 
+ so we need to prevent that 
+ we need to do this this error basically 
+ thank you i don't know what you're doing 
+ but please stop that that's wrong i mean 
+ you're walking threat 
+ and 
+ they do that 
+ yeah for rule number one don't block the 
+ main thread 
+ and they do that this is uh 
+ uh 
+ codeball from the 
+ podgrass 
+ uh 
+ database backend it points to the mysql 
+ and the other 
+ but uh 
+ they have this ac unsafe decorator 
+ it's basically telling you if you're 
+ trying this key point where the sql 
+ query is triggered if you're trying to 
+ do that 
+ and you're into an event whoop just 
+ raise an error 
+ and 
+ that's the example that we saw before 
+ starting with the jungle 
+ so we actually have a way to make a 
+ blocking operation 
+ that is 
+ blocking cooperation inside an event 
+ warp we have at the core team 
+ that doesn't actually walk the main 
+ threat 
+ and that's what they did but they call 
+ it syncq async and async to sync 
+ that's basically the 
+ the core implementation i mean these 
+ guys that released the algorithms part 
+ from the jungle 
+ uh it's in our package but part of the 
+ jungle or organization 
+ uh these guys are demo smart there's uh 
+ tons of checks tons of validation inside 
+ but the core logic says 
+ if you want to use drm 
+ put it into a thread 
+ wait for it 
+ and 
+ yeah 
+ and 
+ yeah i think to think is basically doing 
+ the the 
+ just the opposite thing with tmr 
+ implementation 
+ so 
+ this is a more complex example how it 
+ works you can basically put this 
+ decorator to 
+ sync twice into a normal python function 
+ and you can await it 
+ you can call according from it you can 
+ decorate the coroutine like async to say 
+ async to sync 
+ which will make it a normal standard 
+ sorry standard 
+ python function and that worked fine 
+ so what happens with the transaction 
+ atomic 
+ we said that the database connection is 
+ threadbound but you if you if every time 
+ that that you 
+ make some orem query you go to another 
+ thread 
+ you still lose the ability to make 
+ atomic transactions 
+ well 
+ the truth is that 
+ you can make them 
+ but you must encapsulate the codes that 
+ make sense to be transactional atomic 
+ into a synchronous box and then call 
+ them 
+ with sync twicing 
+ you cannot depend on the standard way of 
+ making uh atomic 
+ atomic requests to an entire http 
+ request you just have to 
+ to pay more attention which blocks 
+ actually make sense to be 
+ put into transaction 
+ so yeah it's increasing complexity a 
+ little bit 
+ and you can use this utility functions 
+ think to async to basically all the oram 
+ methods 
+ but but 
+ you need to put it into the method that 
+ actually triggers the query 
+ so if you see the last example 
+ with the user user.object.o because the 
+ user.object.org doesn't make a query it 
+ makes a query when you start actually 
+ iterating over it 
+ uh you need to tr to apply the function 
+ to the 
+ [Music] 
+ thing that actually triggers the 
+ iterator inside it 
+ and what's new that that's actually uh 
+ there was a pull request that were that 
+ was open in the jungle repository for 
+ like a few months or something 
+ and it was merged two or three weeks ago 
+ it's completely new it will be released 
+ in jungle 4.1 
+ uh which 
+ puts an 
+ asynchronous version of almost each of 
+ the methods of the query set and they 
+ add this a before the method 
+ so you can weigh them 
+ with the 
+ functions that that are iterated you 
+ don't need that because 
+ you can define them both as standard 
+ iterators and asynchronous it uh 
+ generated actually 
+ basically 
+ so yeah that's really nice uh if you 
+ wonder how it works under the hood 
+ they wrap 
+ the functions that trigger the query 
+ with sync to async it's the same thing 
+ but the good thing is that if they 
+ change the implementation 
+ you're using the jungle official jungle 
+ api of the oram 
+ so they are free to change the internal 
+ implementation up and you don't have to 
+ use this utility function 
+ so yeah what what did we achieve with 
+ all this 
+ if we 
+ if we did our our attach to not block 
+ the main thread 
+ let's see this this simple view 
+ this is uh just sleeping for no point 
+ one seconds it's not not doing something 
+ because or 
+ what i did is sent 100 request 
+ simultaneously to the api and see how it 
+ behaves 
+ and this is this is uh the performance 
+ when you deploy your code with whiskey 
+ so it what basically done if you have if 
+ you sent us 100 requests it 
+ handle the first handle the second third 
+ fourth 
+ so yeah you wait around for 10 seconds 
+ if you use algae 
+ what happens is 
+ if you if you sent 100 requests actually 
+ swore for everyone it's actually sore 
+ because 
+ you block the threat each of them block 
+ the threat 
+ and all of them wait 
+ because aggie by by definition is 
+ handling 
+ uh that's what what they say in the 
+ documentation is async outside but it's 
+ synchronous inside 
+ but they handle all the requests and 
+ then 
+ depends on the fact you you you're not 
+ blocking the threat 
+ so let's say we we move our we uh we 
+ rework our view as an 
+ async api 
+ what happens is it 
+ it's like 10 times faster or something 
+ all of the 
+ the only limitation 
+ is 
+ the threats that you could spawn 
+ to handle the request to handle the 
+ uh 
+ if you use the standard time sleep 
+ for example if you replay that with an 
+ or inquiry 
+ and 
+ yeah having that in mind you you you can 
+ also but this is this is uh 
+ on our topic 
+ you have a way to fine-tune how many 
+ threats you could spawn from the very 
+ beginning in the jungle that can handle 
+ the 
+ uh 
+ that can handle the oram interactions 
+ and basically have a way to potentially 
+ concurrently make multiple transaction 
+ atomic blocks 
+ so 
+ what we had we have four phases to make 
+ our jungle framework async the first one 
+ the 
+ or was the ascii support 
+ which makes it possible to have a 
+ coordinating interface of the chain 
+ then we have the middlewares 
+ and this is this is uh maybe the slowest 
+ part because 
+ we depend on the ecosystem around jungle 
+ or the third part is to migrate and make 
+ sure they they're suitable for aging 
+ which many of them already did 
+ then we have the views that just need to 
+ be according 
+ and we have the orm that the current 
+ state is you can make it asynchronous 
+ from the 
+ from the perspective of the main thread 
+ but you cannot simultaneously 
+ send hundreds of queries 
+ and 
+ yeah the point of uh 
+ this talks and i hope i made it uh 
+ clearly was that we have 
+ we have a really good and stable 
+ framework we knew that the future is 
+ async and we need to get at that point 
+ uh 
+ we need to get there at some point 
+ we knew that back three years ago when 
+ jungle 3.1 
+ came 
+ and we have a plan to do that we just 
+ need times to to get there 
+ here's a list of useful uh 
+ links that 
+ explains the 
+ we're going by we're going to share the 
+ presentation in linkedin and twitter so 
+ if you're 
+ if it's interesting to you you can check 
+ it later 
+ and yeah i'll be happy if you have some 
+ questions and thank you very much for 
+ the attention 
+ [Applause] 
+ [Music] 
+ [Applause] 
+ anyone has any questions just come on up 
+ we have plenty of time 
+ hello thank you for your presentation uh 
+ i have a question for oram do you have 
+ some limitation for database in giants 
+ like will it work 
+ for my sql postgres for all of them 
+ okay 
+ uh 
+ so i mean you if you have some 
+ limitations in the simultaneous 
+ connection yes yes 
+ well there is every database has a 
+ limitation of how many connections could 
+ be 
+ could be mated to it uh you have a way 
+ to fine tune that from the jungle and 
+ it's the so-called ad gi 
+ underscore threads um 
+ setting environment setting 
+ so that basically tells the 
+ sync to async 
+ class to how many threads you should 
+ execute executed when you start the 
+ jungle how many traits it will be 
+ executed from the very beginning 
+ and 
+ wait for them to handle 
+ oh yeah yeah 
+ thank 
+ thank you 
+ hi thanks for the presentation uh i was 
+ wondering if you know like in terms of 
+ the solution that was designed to to 
+ have a sync orm how does this compare to 
+ like uh 
+ sql alchemy it has also an async like 
+ backhand now apparently 
+ i'm not sure how it handles i feel uh 
+ skill alchemy like a few hours ago not 
+ sure what to state there okay thank you 
+ uh hello um about the middleweights and 
+ their 
+ compatibility with assang 
+ there is fun fact the middleware mixing 
+ that was 
+ supposed to bring very old middlewares 
+ into django 2.0 i think 
+ also adds the 
+ uh async function just by wrapping it in 
+ async to sync 
+ so you can apply it to newer middlewares 
+ to make them i think 
+ our 
+ yeah it's not really a question just 
+ again yeah 
+ okay i haven't tried that but yeah 
+ sounds like a good idea 
+ hi thank you for your talk um as a 
+ developer that has a non-sync django 
+ application and wants to move to an 
+ async one do i have to go to every step 
+ of the way like um i assume rms and 
+ views yes and yeah and switch from the 
+ wsg to the a like how does the middle 
+ are like how this migration looks like 
+ well 
+ it depends on 
+ yeah basically the state of the project 
+ if you can move to your first step is 
+ obviously moving from whiskey to algae 
+ then you may you need to make sure that 
+ uh 
+ your first up-to-date jungle so your 
+ internal middlewares are handling 
+ curtains 
+ uh then if you use some third-party 
+ middlewares that they are actually doing 
+ that 
+ uh and the next step is basically 
+ defining uh 
+ i don't know if there's an easy way for 
+ existing views apis 
+ probably better ways will be to 
+ introduce a new one 
+ new ones that could reuse the same logic 
+ from the 
+ legacy code 
+ by wrapping them within two i think 
+ uh hi thanks for the talk um are there 
+ some benchmarks available 
+ comparing jungle run the traditional old 
+ way on the async way uh 
+ no what i used for the example was a 
+ cli tool called hey 
+ that you can tell how many requests you 
+ sign simultaneously and what portions 
+ and 
+ what i did is just send a single portion 
+ of 100 requests to the view 
+ do we have any other questions 
+ there are no questions 
+ okay then thank you all for coming 
+ [Music] 
+ [Applause] 
+ oh 
+ thank you 
+ [Music] 
+ [Music] 
+ yes 
+ here 
+ so 
+ um 
+ so 
+ yep 
+ future 
+ empowered 
+ uh is my voice 
+ i'm audible 
+ so 
+ oh 
+ um 
+ um 
+ uh 
+ oh 
+ oh 
+ [Music] 
+ uh 
+ stickers 
+ okay 
+ okay 
+ hello everyone 
+ how was lunch 
+ oh okay so someone's missed it how could 
+ you miss it like one hour and a half 
+ okay whatever 
+ um so uh thank you for coming uh this is 
+ the uh 
+ jrpc in python talk uh by someone thinks 
+ i hope i i suck i think i hope i 
+ pronounced it correctly i'm sorry sunk 
+ it if i didn't because that we wouldn't 
+ able to sync before the talk 
+ unfortunately 
+ but 
+ please 
+ this is our remote talk so 
+ i expect more questions uh remote as 
+ well but you also can ask questions here 
+ after the talk and for now please uh 
+ join me in welcoming uh sanget singh 
+ [Applause] 
+ okay uh 
+ i hope i am audible to everyone uh 
+ thanks for the warm welcome uh hey 
+ everyone i am sanket singh 
+ um i hope everything 
+ is fine i'm audible also 
+ right okay cool 
+ so uh welcome to euro python guys um 
+ this is my second 
+ python conference uh as a speaker 
+ today we are going to talk about grpc 
+ with python i believe um 
+ uh a lot of you guys might be already 
+ aware about what grpc is what it has to 
+ offer but we are going to take a deep 
+ dive and if you are a beginner then you 
+ are at the perfectly right place if you 
+ don't know anything about grpc 
+ uh we are going to talk a lot about it 
+ and we are also going to see how you can 
+ set up your first grpc server and client 
+ with python right 
+ uh 
+ before we uh start 
+ who am i why i'm here i'm sanket singh i 
+ work as a software engineer at google 
+ prior to google i worked as a software 
+ engineer at linkedin 
+ in india i like spending 
+ some time in training students about 
+ foundations of computer science like 
+ data structures algorithms 
+ dbms networking javascript and python as 
+ well 
+ i'm kind of like superhero fan so big 
+ marvel and dc fan so you can find some 
+ references also 
+ uh coming up in the slides so stay tuned 
+ for that uh let me know if you get some 
+ easter eggs and references okay 
+ so what you guys can expect from this 
+ session uh we are going to talk about 
+ what and 
+ why about grpc like what is grpc 
+ and with our already existing solutions 
+ why do we need grpc now 
+ we are going to compare grpc with some 
+ other conventions like rest 
+ so etc 
+ also we will see that how you can 
+ kickstart a small 
+ sample grpc server and client in python 
+ it's going to be really easy and we will 
+ unleash the power of grpc in very few 
+ steps 
+ so this is going to be what your 
+ expectation from the session is right 
+ okay 
+ so 
+ first of all before we actually take a 
+ deep dive into rest and sorry take a 
+ deep dive into grpc we would like to 
+ first of all talk about rest right our 
+ favorite rest i believe 
+ uh all of you guys must have uh 
+ interacted 
+ with a rest api rest server or maybe 
+ developed your own as well right 
+ rest is something which is kind of 
+ widely accepted and used uh there exists 
+ dedicated frameworks like uh python 
+ django ruby on rails 
+ these frameworks support 
+ rest out of the box right we don't have 
+ to 
+ do a lot of configurations and change 
+ the conventions 
+ there by default support rest and they 
+ encourage you to support rest as well 
+ like uh in things like django and rails 
+ if we follow rest conventions then 
+ things get even simpler the scaffolding 
+ operations provide us default set of 
+ rest apis for whatever resources we want 
+ to use right 
+ so rest is already present with us it's 
+ very flexible and easy to use right 
+ [Music] 
+ in rest we deal everything as resources 
+ and we are kind of like uh very much 
+ into it that most of the i would say 
+ most of the people must have somewhere 
+ somewhat in in during their career must 
+ have uh worked with rest rest is 
+ something that is even compatible with 
+ browsers right 
+ we have predefined set of conventions 
+ with rest we have predefined set of 
+ codes which are which are called as 
+ status codes for rest right so you guys 
+ can like check out the mdn status quotes 
+ for rest there are a bunch of them and 
+ definitely we know uh about 200 404 500 
+ we definitely interact with them on 
+ almost daily purpose right 
+ so rest is already there and we are kind 
+ of used to it it's easy it's flexible 
+ it gets the job done right 
+ till now a lot of i would say big 
+ websites applications are already set up 
+ in rest they are doing fine 
+ so 
+ what's the problem now let's talk about 
+ it 
+ so 
+ we'll talk about uh 
+ the problems and the shortcomings of 
+ rest but first of all there is something 
+ new already present in the market 
+ we would like to welcome 
+ grpc so you guys must have already heard 
+ about rpc remote procedure calls 
+ so g what is grpc grpc is an open source 
+ rpc system developed by google 
+ in 2015 so all in all it does it does 
+ the same thing that a normal remote 
+ procedure call is going to do with some 
+ added benefits as well as advantages 
+ so grpc uses http 2.0 out of the box we 
+ are going to talk about it and it is one 
+ of the most important reasons why 
+ using grpc makes sense a lot because it 
+ comes with the capability of http 2.0 we 
+ will talk about it a bit later 
+ uh in grpc we use language neutral 
+ protocol buffers 
+ this is one of the key highlights of 
+ grpc right we are already used to things 
+ like xml json etc 
+ but 
+ protocol buffers are new to the picture 
+ and they change the whole landscape 
+ grpc is 
+ very fast 
+ secure and has features like automatic 
+ load balancing right 
+ so jrbc comes up with a lot of new 
+ features it's open source managed by 
+ google and we are going to discuss about 
+ all of these features we are also going 
+ to see when we should not use grpc we 
+ are going to compare it with rest and a 
+ lot more 
+ right okay 
+ so 
+ the thing is uh the 
+ i would say the most important question 
+ is not what is grpc the most important 
+ question that should come into our mind 
+ is 
+ why now like we are already 
+ uh there with a lot of already present 
+ conventions rests uh soap etc like why 
+ we start with the problems i would like 
+ to specifically mention that whatever 
+ i'm going to uh discuss here you might 
+ not feel these as problems right it can 
+ depend on use case to use 
+ just wait two minutes for hello 
+ um 
+ thank you 
+ um 
+ engineering 
+ yes 
+ boxes 
+ that's also interesting my job was to 
+ write a client and on 
+ this places 
+ if 
+ how 
+ such 
+ private relay is described 
+ called mask protocol 
+ modern open standards 
+ this means 
+ multiplexed application 
+ i guess that it means 
+ nice 
+ mask 
+ just 
+ so the questions 
+ what is great 
+ and 
+ on top 
+ so 
+ set write data to it and the data will 
+ get to 
+ complete 
+ with udp you 
+ let's get the other side 
+ [Music] 
+ 10 years ago some people 
+ got 
+ what if we built 
+ just 
+ using primitives that udp has 
+ and they did they made quick 
+ now 
+ tcp 
+ it's actually default it has stills 
+ built in so it's always fully encrypted 
+ that's one of them 
+ one and 
+ use 
+ tcp with the ls hopefully 
+ similarly 
+ multiple 
+ false 
+ quick 
+ support 
+ in uh 
+ one 
+ okay 
+ part the reverse proxies 
+ are 
+ crosses 
+ i'm not aware of that i don't care they 
+ are not my proxies 
+ is inviting 
+ hello 
+ a connection but i 
+ the protocol is simple 
+ encryption 
+ uh there are only basic authentication 
+ options 
+ the example is still plain hdb 
+ includes another proxy connections 
+ this is called onion routing 
+ i can connect one proxy 
+ and ask it to set up a tunnel 
+ to a second proxy 
+ then through the first proxy and second 
+ proxy i can 
+ connect to do a third proxy and so on as 
+ many times as i want 
+ this is great for your privacy because 
+ like each proxy just sees the ip address 
+ before and after and not not everything 
+ but let's get back to 
+ mass proxies 
+ i have told you that mass proxies are 
+ http free proxies 
+ actually they should also support http 2 
+ as a fallback for networks where udp is 
+ being blocked 
+ mass proxies work 
+ in the tunneling mode only 
+ it's it's logic like it doesn't make 
+ sense to implement some forwarding 
+ legacy mode just because of small 
+ fraction of an equity traffic 
+ the mask specs explicitly mention the 
+ onion routing so it's there by design 
+ there are some other goodies 
+ that normal proxies do not have but i 
+ won't go into that today 
+ okay 
+ i want a client that supports mask 
+ meaning that i need support for proxies 
+ and for http free what are my options 
+ what do we have in python 
+ python has batteries included so we have 
+ an hdp library in the standard library 
+ but probably 
+ not probably surely the most popular 
+ option today are requests 
+ unfortunately both these 
+ libraries support http one only 
+ for http 2 
+ i can use a nice library called hdpx 
+ but i am not aware about 
+ any 
+ ready to use client 
+ that would support http 3. 
+ i carefully say ready to use 
+ because we have so called sans io 
+ libraries 
+ and we have them for all 
+ major http versions including the latest 
+ one 
+ sensio or brink your own io libraries 
+ are 
+ like distilled protocol implementations 
+ they can convert your requests to bytes 
+ they can convert bytes to 
+ or they can convert responses back bytes 
+ to responses 
+ but they 
+ don't transfer anything over the 
+ internet 
+ that's your responsibility that's 
+ something you have to add 
+ sanso is great if you don't want to 
+ start from scratch 
+ but 
+ i'm not so sure that it's such a great 
+ idea to write protocol implementations 
+ in python especially if you care about 
+ performance and we 
+ usually choose http 2 or 3 because of 
+ performance 
+ we should look at libraries like ng http 
+ 2 which is a c library 
+ implementing http 2 obviously as is used 
+ in projects like nginx or corel 
+ we have 
+ competing http 3 implementations 
+ for some reasons two of them are called 
+ cache so just be careful to distinguish 
+ them 
+ but in any case i think that we should 
+ consider our options how to wrap these 
+ libraries into python 
+ at this point i would like to make clear 
+ that i'm speaking about like very low 
+ level layers something that 
+ most people don't care about at all like 
+ users want something like for humans but 
+ that's not my topic today i'm looking 
+ for 
+ internals of the libraries that would 
+ allow me to combine protocols for 
+ proxies and origins 
+ so let's finally look at what i made 
+ how my mask line does look like 
+ the core of my client is based on the io 
+ quick library 
+ honestly i did not have many options 
+ here as it's the only quick 
+ implementation in python 
+ and as io quick is a 
+ sensor library i had to add some io so i 
+ took a syncio from standard library 
+ together i got 
+ a simple http free client 
+ at this layer there is nothing related 
+ to proxies 
+ the proxy related logic is one layer 
+ above 
+ i have a proxy client that uses h3 
+ client 
+ to tunnel bytes through an http free 
+ proxy at this layer i have something 
+ like netcat but with proxy support i can 
+ write bytes into it and three bytes from 
+ it 
+ but that's still not enough i want to 
+ test real http requests 
+ so 
+ let's add one more layer 
+ i took h11 which is a sensor 
+ implementation combine it with my proxy 
+ client 
+ and at this point 
+ i can finally tunnel http 1 traffic 
+ through http 3 proxies 
+ now 
+ do you see a name like pattern in my 
+ class structure 
+ i see that i have two layers and at each 
+ layer i have a sans i o library 
+ once for http 3 ones for http one 
+ so at both layers i had to combine it 
+ with some i o in one case it was from 
+ the standard library it was in one case 
+ it was my own class 
+ and together 
+ at both cases at both layers i got 
+ something that speaks hdp 
+ a very low level hdp client 
+ looking at this pattern i was 
+ considering how to properly generalize 
+ it 
+ what if i want to support http 2 proxies 
+ if i want to support http 2 traffic what 
+ about other combinations what about sox 
+ proxies 
+ 10 years ago 
+ 10 years ago 2 years ago 
+ at my i gave a talk at euro python about 
+ the gp3 where i said that 
+ http is only one 
+ its concept same between uh its concepts 
+ remain same between versions 
+ http one two or three are just 
+ implementations mapping 
+ the one http into tcp or udp 
+ and new rfcs from this year follow 
+ exactly this design we have one generic 
+ about http semantics and then rfcs for 
+ each of the versions 
+ and i think that my next client should 
+ be structured exactly like that i should 
+ have an interface saying what http 
+ should do 
+ and 
+ then i can implement it for different 
+ versions typically by combining a sensor 
+ library with some io 
+ or maybe for better performance by 
+ wrapping some c implementation 
+ to support proxies 
+ uh the design 
+ should have injectable i o like i don't 
+ want hard-coded sockets 
+ so i think that i should have interfaces 
+ for 
+ like tcp like streams or for udp-like 
+ flows 
+ obviously the most common implementation 
+ will justify sockets 
+ but i will be able to 
+ plug in implementation that tunnels 
+ traffic through a proxy 
+ be it 
+ tcp or udp and by the way we can even 
+ tunnel udp traffic through end proxy 
+ there are few design details 
+ or maybe lessons learned that i would 
+ like to mention 
+ the first one maybe the most obvious one 
+ is that 
+ the main advantage of uh http 2 or http 
+ 3 is that these versions are multiplex 
+ and to make use of that i think that 
+ most of the code should be asynchronous 
+ another 
+ quite detailed but i think important 
+ detail is that quick 
+ is implemented in user space meaning in 
+ your code or in a library that you take 
+ with you 
+ so whenever you open a 
+ http free 
+ f quick connection there has to be some 
+ background task running that does the 
+ networking stuff like sending packets 
+ acknowledging packets retransmitting 
+ packets and so on 
+ and last not least 
+ i somehow learned that it's not easy for 
+ me to write low level async io code 
+ there are some protocols that you push 
+ into some design so maybe next time i 
+ would consider something like 
+ trio is using which can be 
+ maybe any io or something like that 
+ a logical question is like now i'm 
+ showing you what i did but you can find 
+ it 
+ uh 
+ i tried to hack some very simple support 
+ into hdpx it was very limited but i 
+ haven't published it because 
+ it's really tough 
+ like http 3 alone is complicated 
+ and my task was even more difficult 
+ because i had to support the different 
+ protocols for 
+ like proxy connections original 
+ connections so there is not much overlap 
+ between the existing libraries and the 
+ code that i wrote 
+ so 
+ if you are interested in this i will be 
+ really happy to discuss that and look 
+ how to do that but so far i i cannot 
+ share much 
+ unfortunately 
+ okay 
+ so i shared my 
+ vision 
+ my 
+ lessons learned 
+ so it's time to conclude the talk 
+ what you can remember 
+ please remember 
+ that http tunnels are simple 
+ like you just 
+ sent a connect request and from then on 
+ everything is tunneled through 
+ simple 
+ proxies are not complicated but http 2 
+ and http3 are different 
+ than the first version of the protocol 
+ so maybe the existing abstractions may 
+ not be sufficient in all cases 
+ especially if i want to 
+ support combinations of protocols for 
+ proxy 
+ origin 
+ traffic and speaking about abstractions 
+ do not forget that http itself is a 
+ interface 
+ where it's like 
+ http versions are its implementations we 
+ can implement them using sunsoil 
+ libraries which are great they help me a 
+ lot 
+ but i would not forget about like native 
+ cc plus plus implementations if if i 
+ care about performance 
+ and that's all from my site thank you 
+ for your attention thank you that i was 
+ able to share my 
+ experience 
+ thank you masloff um so we started a 
+ little later 
+ the next uh on the agenda is coffee 
+ break so we are gonna take some 
+ questions now 
+ uh so you can 
+ queue up okay we have one and i think we 
+ even will have the remote ones so please 
+ ask the question hey thank you for the 
+ great talk um i have a question because 
+ you said that quick is implemented in 
+ user space and it probably makes sense 
+ because then you can easily 
+ adapt it to windows or linux or macos 
+ but then the question is are they going 
+ to implement it in the kernel space or 
+ maybe 
+ uh or maybe they are leveraging things 
+ like i ordering iou urine on on linux to 
+ make it faster or efficient you know 
+ it's um 
+ what i know is that it started in user 
+ space because it was like started by 
+ google so you get it into chrome 
+ so it was like everywhere on google 
+ servers on akamai servers on on your 
+ laptops because everybody is using 
+ chrome and that was helped to develop 
+ the protocol then it was standardized by 
+ itf that's by the way we have like two 
+ quick versions like google quick and its 
+ quick 
+ and 
+ i noticed that like in some talks that 
+ like people from apple or from people 
+ from microsoft speak about like these 
+ protocols and i think that ios has some 
+ like network uh like 
+ some apis but i don't get it but i it's 
+ quite likely if i had to guess i would i 
+ would not be surprised if it got to 
+ kernel at one point but that's like yeah 
+ because the the problem is that you will 
+ have interrupts a lot of interrupts with 
+ this like udp connection so but if you 
+ would use something like i o urine then 
+ maybe you would not have them i i know 
+ that like about this like performance 
+ and drafts and this kind of like stuff 
+ that i don't understand like we have 
+ like lots of people that spend a lot of 
+ time on that that's definitely something 
+ this will come to be solved 
+ but even with all these things like the 
+ numbers that we saw for like uh like 
+ quick 
+ is submissions it's like 
+ they the people choose it for some 
+ reason it's like uh yeah it's it's even 
+ even user space 
+ so we have time for one short question 
+ if someone has it 
+ and 
+ are you 
+ okay 
+ so you mentioned quick is underlying 
+ http 3 yeah but quick is a general 
+ transport yeah is there anything other 
+ than http using it yet 
+ i think there are some attempts that i 
+ don't 
+ remember but 
+ that's i have just like approximate idea 
+ but i think that there was some kind of 
+ effort to standardize quick as a 
+ protocol and it was taking a lot of the 
+ time 
+ and like with no clear direction so at 
+ some point somebody said like just 
+ understand gp3 that's something that 
+ like everybody will be using but like if 
+ you for example look at the code you see 
+ the layers like there is like this is 
+ the quick layer you open a stream you 
+ write data to it and then you have like 
+ http layer which says like here is a 
+ frame with headers here is a frame with 
+ data so you can either 
+ for example simple demos can send http 
+ one over 
+ quick and it perfectly works and maybe 
+ it's even valid based on the 
+ specification you can use it you can 
+ write it that's that's like working but 
+ i am 
+ i'm not aware about other use cases at 
+ the moment 
+ it's but it's definitely possible 
+ okay thank you very much mislove please 
+ show that you really like the talk by 
+ clapping really hard 
+ again thank you and see you all later 
+ hi 
+ hello folks 
+ hello 
+ hi 
+ okay folks um this is our next section 
+ you are currently in weekly hall one uh 
+ before we start i just want to remind 
+ that the no recording zone is 
+ to the 
+ right of 
+ and myself 
+ rest is an okay recording zone 
+ um 
+ i would like to introduce 
+ uh this session and the speaker 
+ our speaker today is sanska and the 
+ title is robin and i sing web framework 
+ written in rust 
+ a short introduction of our speaker 
+ today 
+ sanska is a software engineer at 
+ bloomberg london 
+ during the day and an foss maintainer 
+ during the night 
+ he is the author and maintenance of 
+ robin which is one of the faster web 
+ frameworks in the python ecosystem 
+ sun scholars 
+ attending speaking and organizing 
+ conferences and has been an active part 
+ of various 
+ open source and python conferences so 
+ can i ask for a round of applause to 
+ welcome our speaker today sanska 
+ [Applause] 
+ hopefully 
+ all right hi everyone am i audible 
+ perfect 
+ so before we begin this talk i just have 
+ one task for you folks i'll tell you the 
+ explanation afterwards 
+ but you just have to trust me on this 
+ one so i want you folks to give me your 
+ goofiest smiles for the ex for exactly 
+ 17 seconds 
+ and the time starts now 
+ smile 
+ i want to see your teeth 
+ turn to your neighbor's smile as hard as 
+ you can 
+ and 
+ five four three two one 
+ yep 
+ so the reason behind this was that i 
+ wanted some seconds to settle in and 17 
+ seconds was the most random number that 
+ i could think of between 1 to 20. we can 
+ have a debate about it afterwards 
+ before we begin um i've got some robin 
+ swags i've got robin stickers feel free 
+ to take them after the talk 
+ so yeah 
+ and a few things about me my name is 
+ sanskar in the morning i work as a 
+ software engineer at bloomberg where i 
+ help create tools for bond trade 
+ evaluation 
+ and during the night i maintain an open 
+ source software called robin 
+ speaking of robin what is robin 
+ simply put robin is a fast async python 
+ web framework with a restaurant time 
+ let's have a look at the current state 
+ of robin 
+ so robin is currently hosted on github 
+ uh it has a bsd 2.0 clause 
+ it has around 1400 stars on github 
+ around 300 000 installs on pi bi 
+ but most importantly it's under active 
+ development 
+ now by this time i'm pretty sure many of 
+ you must have had this question why 
+ another web framework 
+ what helps robin actually stand out 
+ so here are some of the key features 
+ firstly it's under active development 
+ second most important feature that it's 
+ not written in just another language 
+ it's written in rust by the way 
+ it has a multi threaded runtime 
+ it has a very simple api and it's fairly 
+ extensible for you 
+ it's fast and it can serve around 10 000 
+ requests in 0.692 seconds 
+ on a dual core 
+ macbook which is a very old machine if 
+ you want the latest stats you can check 
+ out the latest release on a very strong 
+ machine 
+ uh it is it supports async it has multi 
+ multi-threaded file and directory 
+ serving dynamic url routing it supports 
+ middleware web sockets 
+ it supports something called constant 
+ requests i'll be explaining you what 
+ that is 
+ but most importantly it's community 
+ first and truly open source 
+ it's 
+ it follows this ideology to an extent 
+ that if you have followed me somewhere 
+ or if you have met me in the conference 
+ you must know that i'm not a big fan of 
+ type support 
+ but community loves it apparently so 
+ community shall get what they ask for so 
+ it is a fully type supported system and 
+ you can use the type safety like you 
+ like your love 
+ now comes the juicy part uh 
+ why what is the robin story uh why did i 
+ invest so much time in making another 
+ framework 
+ it was april of 2021 and it was the 
+ final year of my university and my 
+ thesis thesis deadline was approaching 
+ and like any other hard-working student 
+ i was spending all my time exploring 
+ reddit 
+ sometime around then a big company 
+ decided to introduce uh rust into the 
+ kernels and reddit was filled with this 
+ meme 
+ rewriting everything in rust 
+ and since i was such a dedicated student 
+ i was working on a completely analytic 
+ project called encrypt text that had a 
+ flask backend and during that time i 
+ used to write a lot of node.js and react 
+ and the thing that bothered me about 
+ flask was the lack of async support 
+ so i thought to myself uh you know what 
+ would be cool sanskar if you could 
+ create an async supported flask 
+ and you know what would be cooler if it 
+ would be written in rust by the way 
+ because during during that time i came 
+ to know that 
+ ryan dahl who's was the creator of 
+ node.js 
+ create another framework called dino 
+ which used rust so maybe this language 
+ is not is not a bad choice after all 
+ but the most important questions of the 
+ slide why the name robin 
+ because if i take care of something 
+ called robin i help it grow 
+ and i help it develop 
+ that automatically makes me batman 
+ so if i'm a little slow in reviewing the 
+ prs or if i'm not responding on the 
+ community just have a bad signal beside 
+ you and i have a moral obligation to 
+ respond to your question 
+ no okay now coming to the technical part 
+ of the talk 
+ let's have a look at the tradition 
+ python web app lifecycle 
+ so usually we have a reverse proxy in 
+ the in the front most part 
+ a web server a reverse proxy is 
+ something like nginx caddy 
+ a web server 
+ is 
+ an ascii or a whiskey and finally we 
+ have our web from web framework sitting 
+ at the end called flask django fast api 
+ and so on 
+ so let's have a look at a traditional 
+ flask cap 
+ i like flask a lot and i'm really 
+ inspired by the api and so this is how a 
+ flash cap looks 
+ so how many of you folks know how to 
+ create a very basic flask up 
+ all right perfect 
+ so you import the flask class from the 
+ app 
+ you initialize the uh you initialize the 
+ app 
+ and you add some uh decorators to add 
+ the routes 
+ so this is how robin's api look you 
+ import robin 
+ from the robin module you initialize it 
+ and you create routes for it 
+ the i have made some changes in the api 
+ that i felt would make it more useful 
+ and more friendlier according to my 
+ experience for example you don't have an 
+ abdo trout 
+ method you have an app.get update post 
+ and so on methods to define the routes 
+ for your application 
+ and also one of another reason for me to 
+ create an api that was so similar to 
+ flask was to reduce the learning curve 
+ to explore a new framework because most 
+ of us are already familiar with these 
+ frameworks and writing a very different 
+ framework 
+ would be a very big commitment for 
+ everyone 
+ so this is how it looks like 
+ now let's have a look at the server 
+ aspect of the code 
+ uh a question to the audience how many 
+ of us know 
+ what a whiskey or an ascii is 
+ okay so this is a code snippet of a very 
+ basic whiskey whiskey stands for web 
+ server gateway interface 
+ the reason why uh whiskey were created 
+ i think 20 years back was because there 
+ were so many web frameworks at the time 
+ but there was no standard to actually 
+ serve them and it was getting very hard 
+ for the frame framework maintainers to 
+ serve the application 
+ so 
+ it was released in pep333 if you folks 
+ want to check it out 
+ this allowed the framework maintainers 
+ to focus on the to on the routing side 
+ and the execution side where the whiskey 
+ would take care of all the dirty parts 
+ like handling http requests 
+ handling the response for you so on 
+ weskie whiskey and ascii have a lot of 
+ benefits but for robin you do not 
+ require an ascii server 
+ robin comes with a coupled ascii server 
+ so it is one of the reason that makes it 
+ much faster 
+ than everyone else so this is how a life 
+ cycle of a robin app would look 
+ it is as simple as writing python 3 
+ app.py you do not have to decide between 
+ choosing the right whiskey or an ascii 
+ server so no g unicorn no ubiquinos 
+ talent you just write python 3 app.py 
+ you put it behind a reverse proxy and 
+ you have your 
+ working server 
+ now let us have a look at the 
+ architecture to have a sense of what 
+ actually is 
+ happening 
+ first of all uh we have a worker event 
+ cycle 
+ that basically does all the heavy 
+ lifting for you uh this part manages the 
+ runtime 
+ it passes all the instruction to the 
+ rust code 
+ and then spawns a thread pool in the 
+ middle 
+ so when we type the command python 
+ app.py 
+ the python code is converted to rust 
+ objects as you can see 
+ here 
+ and then it is populated in a thread 
+ safe 
+ thread safe router 
+ and when the incoming requests uh come 
+ to the router the router gets the rust 
+ object from the mapping passes in a 
+ thread pool depending on if it's a sync 
+ function or an async function 
+ and then the response is executed and 
+ then returned back as a response 
+ but to scale it to even more extent we 
+ have a tcp socket that's listening to 
+ the request and we can have multiple 
+ processes as well as multiple workers 
+ now 
+ so all this all the thing that i 
+ explained earlier can be scaled across 
+ multiple cores of your machine 
+ so this is also another reason why robin 
+ is faster compared to other frameworks 
+ in the market 
+ now this feature called const request 
+ optimization for the lack of a battle 
+ name was released a week back 
+ so i realized that the encircled part is 
+ very guild dependent how many of you 
+ know what a gill is 
+ okay so gill is basically a global 
+ interpreter lock which in python 
+ accounts to the slow performance 
+ for some it's uh 
+ some reason for the slower performance 
+ because it doesn't allow like a true 
+ multi-threaded experience so for simple 
+ things like serving let's say hello 
+ world or serving a json schema acquiring 
+ a releasing guild would be a big 
+ overhead so 
+ we realized what 
+ would it wouldn't it be cool if it would 
+ just be eliminated and the rest we we 
+ were able to serve rust uh like the 
+ response directly from the rust side 
+ without ever invoking the python object 
+ so these are different ways i could 
+ think of on writing hello world in 
+ python and serving so we have s strings 
+ dynamic f strings 
+ uh 
+ strings that are converted on the flat 
+ so 
+ i went on and disassembled this code and 
+ this is how python looks in assembly on 
+ a closer inspection you see that only a 
+ constant 
+ is loaded 
+ before a return value is returned 
+ so all of this is replicated in all the 
+ patterns below 
+ so 
+ how automatic const request optimization 
+ works is that it sees the assembly it 
+ precomputes the value stores it in the 
+ uh thread safe router and without ever 
+ like acquiring or releasing a lock it 
+ serves the response back to you 
+ so 
+ automatic constant request optimization 
+ is still under work whereas the constant 
+ request optimization is already present 
+ in version 17.0 
+ so this was just too cool for me to not 
+ just show off 
+ make your folks feel excited for 17.1 
+ now coming to the usage you can simply 
+ do a pip install robin or install it via 
+ conda you do not need to have rust 
+ installed on your machine 
+ now we have a little feature showcase to 
+ get you folks excited 
+ so robin supports synchronous functions 
+ because 
+ many libraries still have synchronous 
+ functions and 
+ as much as 
+ i wanted to make it fully async 
+ we need synchronous support because some 
+ library maintainers 
+ either can't upgrade the libraries or 
+ don't want to it's a very hot topic and 
+ we don't want to start a debate here 
+ it obviously supports async function 
+ because it was one of the core reasons 
+ behind robin's origin 
+ and i was a react developer as well and 
+ it always bothered me that i was unable 
+ to um serve react applications from a 
+ flask app very easily 
+ so i created a way to add sub routes and 
+ you can serve multiple react application 
+ on a single server 
+ using the add directory method 
+ we have static file serving which is uh 
+ much faster than the native python file 
+ serving so if you ever want to serve 
+ like large files on a machine on your 
+ web server it will be much faster than 
+ using the native 
+ uh python way 
+ we have dynamic url routing so if you 
+ want to have route parameters in your 
+ route you can use it like that 
+ so it it also scales across multiple 
+ cores so 
+ you can scale it as multiple workers as 
+ well as multiple processes if you have 
+ any restriction on the number of threads 
+ that you can use on your your on your 
+ server 
+ uh we have middlewares for logging for 
+ authentication 
+ and 
+ we all love middlewares basically yes 
+ we 
+ we support websockets 
+ so 
+ um your real-time applications are also 
+ supported in robin 
+ constant requests 
+ and much more at the github repo 
+ now if you folks are still not excited 
+ we have the performance comparison 
+ but a psa that this comparison is not to 
+ demean any framework or the people 
+ associated with the framework the these 
+ frameworks are the reason why i got 
+ involved in the python ecosystem 
+ but here you go so this is a comparison 
+ between flask fast api django robin on 
+ one worker and robin on five workers 
+ so as you can see flask took around five 
+ seconds to serve ten thousand requests 
+ a fast api took four seconds django took 
+ 13. 
+ uh i mean jungle with g unicorn took 13. 
+ robin on a single worker took 1.8 
+ seconds whereas on a five 
+ with five workers that was the maximum 
+ workers that could be allocated on my 
+ dual core machine it took only 0.69 
+ seconds to serve 10 000 requests 
+ now seeing what's in plan for robin for 
+ the future 
+ i 
+ want to make it more performant add open 
+ api integration because it is a better 
+ way to write documentation i i don't 
+ take support implement automatic const 
+ request optimization orm supports 
+ improve the plugin ecosystem better 
+ documentation 
+ prove the web sockets 
+ and i came to realize in this conference 
+ that people want to add template support 
+ like ginger templates so to support 
+ ginger templates with robin 
+ make graphql integration with strawberry 
+ and my i came to came to also realize 
+ that no not many people are available on 
+ jitter and the main reason to have a 
+ community communication platform was to 
+ make it more accessible so we'll be 
+ migrating the community to discord and 
+ most importantly 
+ try to increase the community 
+ involvement 
+ speaking of the community 
+ join our community if you are interested 
+ on making prs doing reviews sponsoring 
+ or if you are just curious 
+ here is the link to the community 
+ and special thanks to the people who are 
+ already there the sponsors the 
+ contributors without 
+ without you folks it wouldn't have been 
+ possible 
+ so here are some of the important links 
+ we have the github link the ipi link 
+ the website the docs link 
+ and yeah 
+ star robin on github and let me know if 
+ you have any questions 
+ and also we are hiding at bloomberg so 
+ [Applause] 
+ okay so we have plenty of time for q a 
+ uh do we have any questions for the 
+ speaker uh yes you can go up to the mic 
+ well maybe thanks for the talk uh how 
+ does the python rust uh glue works in 
+ your case to use pio3 yes 
+ great that answers my question 
+ i've used it recently and i really like 
+ it i really hope we've 
+ been using it a bit more yeah when we 
+ want to get some performance from python 
+ yeah it's a very nice api 
+ okay uh i'm curious about the 
+ performance stuff could you elaborate a 
+ bit like why do you think it's faster or 
+ how it's faster 
+ i think one of the reason is because we 
+ have uh segregated all the 
+ request handling the h request 
+ validation towards the rust side 
+ and also we allow the thread pool is a 
+ multi-threaded thread pool and which is 
+ not very easily possible in python 
+ because in python you obviously have to 
+ acquire a guild to perform uh like 
+ execute async functions whereas in rust 
+ you bypass that restriction and execute 
+ those rest objects in a multi-threaded 
+ runtime 
+ the logo is pretty nice first thing 
+ thank you and second thing uh do you for 
+ the asking part do you support asynchaio 
+ or trial uh or anything else i think io 
+ plus uv loop okay and you don't like 
+ trail you don't want to give a try no i 
+ i haven't tried it i tried adding 
+ support for it but i use a library 
+ called pio3 async i o which only 
+ supports that so if i find a way to 
+ support that i'll be happy to support it 
+ okay thank you 
+ yeah it looks like a great application 
+ and thanks for your talk um how does it 
+ compare to just rust applications like 
+ rocket and axem 
+ okay i think um i just tried a 
+ comparison with actics which is one of 
+ the fastest rust 
+ fastest rust frameworks 
+ so it's definitely slower than that 
+ because python overhead is present 
+ so it will be 
+ i think it will be slower than native 
+ rust application but i try to make it as 
+ fast as possible in python 
+ thank you for your talk two very good 
+ questions uh you show that you run the 
+ server with both processors and workers 
+ yes so i suppose processes are cpus and 
+ then the question is 
+ what what are the workers like are they 
+ the number of threats yes and the 
+ follow-up question is how do you run 
+ this on production 
+ how do i do this how do you what's the 
+ preferred way to run this in a 
+ production environment how would you do 
+ it ideally what i don't know the exact 
+ way of how many numbers of cpu do you 
+ need how many workers and how many 
+ processors do you need on depending on 
+ your configuration so usually i try to 
+ do a trial and error where i start with 
+ the workers that are twice the number of 
+ cpu cores that you have and processors 
+ start with just one and i try to 
+ increase or decrease them 
+ based on the performance metrics 
+ yes 
+ and one more thing that i forgot to tell 
+ you folks is that we are having a 
+ community challenge right now so there 
+ are some open issues on github that is 
+ marked with euro python so if you can 
+ solve 
+ create a pr to solve them uh you get 
+ a shirt from me 
+ so this robin shirt is up for grabs 
+ yeah 
+ yeah that's pretty much it uh feel free 
+ to reach to me okay one more question um 
+ yeah just following up on the workers 
+ and processes in this case when you 
+ configure 
+ like the 
+ processes is it like 
+ forked straight from the rest or in the 
+ python site that you create those 
+ processes the processes are on the 
+ python side the workers are on the right 
+ side 
+ okay so if you have kind of a single 
+ process and in the case multiple workers 
+ you see we have 
+ like multi-cpu support yeah and how like 
+ is it kind of each one of the threads 
+ running its own 
+ um 
+ items of the processor like how is that 
+ working with these so anyway between 
+ them every processor has its own workers 
+ every process has its own worker so 
+ depending on the processes that you 
+ create will have the scale of that that 
+ many workers 
+ so 
+ can you share data 
+ amongst um 
+ those 
+ traps 
+ yes like in python uh yes that's how the 
+ runtime works because the router is a 
+ thread safe router that dispatches the 
+ function accord so i don't want to 
+ rephrase this um yeah you can share um 
+ everything that's internal that's rust 
+ that's fine because 
+ yeah you just need to be thread safe 
+ right yeah what about data structures 
+ from python sites 
+ can you share those across the your 
+ threads as well uh as long as i think 
+ they're thread safe but i never actually 
+ had to share the data structures cool so 
+ i'm i'm i'm not really sure no no i'm 
+ sorry that's all uh thanks very very 
+ nice 
+ yeah sure 
+ okay thank you folks uh that's all for 
+ today if you have any other further 
+ questions then i think sanska will be 
+ available 
+ uh on the hallway 
+ and can we have another round of 
+ applause thank you to sansa 
+ thank you everyone thank you for 
+ attending 
+ [Applause] 
+ okay so when i show the time left for 
+ you can you just acknowledge 
+ are you gonna do the speech 
+ okay and the microphone is 
+ but if you don't see me 
+ okay 
+ please 
+ um 
+ okay 
+ it's because not checked 
+ i don't know how to do it 
+ so i'm going to forget 
+ beautiful 
+ uh 
+ hey 
+ uh good afternoon folks you're on in 
+ week-long hall one and i would like to 
+ start our next talk 
+ uh our next talk for uh today which is 
+ the last one for this haul starting at 
+ 405 
+ is the title uh let's talk about jwt and 
+ the speaker today is just 
+ temporal so a short speaker introduction 
+ uh oh before 
+ i introduce the speaker just to remind 
+ you folks the no recording zone is on 
+ the right side 
+ of the hall 
+ okay so 
+ uh let me introduce to our speaker today 
+ uh jessica temporo is a senior developer 
+ advocate at octa for author 
+ zero 
+ pizza de dados co-founder and co-host 
+ pizza is the first and most beloved 
+ brazilian podcast about data science 
+ jessica is also part of the instructor's 
+ team in data bootcamp and 
+ linkedin learning she is part of pi 
+ ladies brazil the brazilian network that 
+ promotes and empowers women in 
+ technology creator of git features 
+ git study cards collection available in 
+ english and portuguese she was born in 
+ warm weather and keeps herself warm in 
+ the cold brazilian south with sweaters 
+ that she needs to sell 
+ can we give a warm welcome to jessica 
+ [Applause] 
+ [Music] 
+ [Applause] 
+ [Music] 
+ safari was trying to update sorry about 
+ that 
+ always happens hi everyone nice to meet 
+ you i have a few questions for you 
+ so who here knows jwts 
+ knows them uses them cool 
+ who here knows how jwts were born 
+ how they came to life 
+ yeah good 
+ okay so the rest of you that don't know 
+ how jw teens were born you're going to 
+ learn today isn't that cool i think 
+ that's awesome but then again i like to 
+ talk about these things 
+ um and you're also going to see your 
+ first vwc so i hope you enjoy your time 
+ with me today and let's talk about your 
+ level tease but before 
+ i get started let me introduce myself hi 
+ i'm jess you can call me jess jessica is 
+ too formal so hi 
+ uh only my mother calls me jessica i 
+ think 
+ i work at art zero which is part of octa 
+ and we are an identity platform 
+ basically this means that we make it as 
+ easy as possible for you to implement 
+ the authorizations and authentication 
+ flows on your web apps 
+ apps and 
+ apis or whatever you need to do an 
+ authentication flow 
+ as my host said 
+ i have a podcast in brazil my colleagues 
+ that do the podcast with me 
+ here today i'm so excited thank you 
+ and i do git fishes which is a git study 
+ collections card so if you need help 
+ with git go there it might help you and 
+ you can find me on most 
+ social networks under the handle just 
+ temporal 
+ so disclaimer first things first 
+ uh usually i call jwts jwts i say the 
+ three little letters 
+ but if you come from an english speaking 
+ country you probably heard the name the 
+ name jot that's the name of jwts where 
+ i'm from is usual to use the three 
+ letters and i'm going to be speaking 
+ jwts or judge throughout this talk 
+ so keep that in mind 
+ now disclaimer over 
+ and it's going to be some code at the 
+ end so don't worry 
+ so is impossible to talk about judge or 
+ gwts without speaking about the json 
+ object tiny encryption which is an 
+ amazing effort to create a collection of 
+ standards and patronizations uh about 
+ the web and specifically json objects 
+ and it 
+ today we're going to speak about one rfc 
+ that's our main focus uh that's the 
+ ifc7519 
+ that's commonly known as the jot 
+ specification and that's going to be the 
+ things that we're going to talk about 
+ it's going to be in there 
+ and usually ajwt is a standardized 
+ string that represents some information 
+ so it conveys some meaning depending on 
+ on your 
+ systems and your 
+ situation 
+ and so let's break it down so json is 
+ the object is the way that we're going 
+ to structure the information we're going 
+ to carry from one point a to one point b 
+ web is where this information is going 
+ to be carried over so it has a space 
+ constrained uh 
+ environment so that's how 
+ it's going to outline most of the things 
+ that we do with jwgs 
+ and token usually is a unique identifier 
+ and that is specific to uh context so 
+ you only it can only convince meaning 
+ depending on context 
+ and if you've never seen lgbt before i 
+ know some of you already have so this 
+ structure 
+ will be familiar to you 
+ but at the first glance this looks like 
+ a random sequence of characters letters 
+ numbers and other characters but if you 
+ take a closer look it actually has a 
+ three-part structure 
+ the header 
+ the payload 
+ and the signature 
+ so let's 
+ break this down a little bit more 
+ so the header contains information about 
+ the token itself what type of token it 
+ is what algorithms would use for 
+ signing and creating that token 
+ so you basically take a json object 
+ for us in python which i love it is a 
+ dictionary kind of information structure 
+ and you encode it into base64 
+ and notice the word is encoding 
+ not encrypting so anyone that know how 
+ knows how to decode the basic c4 string 
+ knows how to get this information back 
+ the second part 
+ is the payload 
+ that's the most 
+ the coolest part or at least one of 
+ those coolest parts 
+ that carries information about a given 
+ resource if we are talking about a 
+ logging scenario this would be 
+ information about the user for example 
+ you might have information about me in a 
+ hypothetical scenario 
+ so my name my last name and when i 
+ created that 
+ set of informations and what is the 
+ subject that would be the 
+ the subject of the token 
+ well on user in this case me 
+ and it is important to notice that both 
+ the payload and the header are only 
+ basically for encoded and each part of 
+ this json object or this dictionary if 
+ you prefer 
+ it is a what we call a claim 
+ so each key value pair is a claim it is 
+ the most basic structure inside 
+ of jwt 
+ and we have three types of claims 
+ why not right the first type are the 
+ reserved claims 
+ these come from 
+ the drug specification so these are 
+ standardized by the job specification 
+ you can 
+ have a subset of the claims in the 
+ specification all of them it depends on 
+ each case and will depend on your case 
+ and the reserves claims come from the 
+ specification only and information like 
+ who is the subject of the token who 
+ created that token when that token was 
+ created and what is like the expiry date 
+ of that token 
+ good 
+ and the second type are the public 
+ claims 
+ those are standardized in a way by 
+ ayanna one of the organizations on the 
+ internet 
+ and they 
+ uh 
+ idealized 
+ for us to have some sort of 
+ interoperability in between systems i 
+ love the word even though it's very hard 
+ to say in english and in portuguese too 
+ so the idea is that everyone would speak 
+ the same language when creating when 
+ using claims they are standardized by 
+ ayana so for example instead of using 
+ first name to repo to refer to the first 
+ name of the user we use given name 
+ instead of using family name 
+ instead of using last name we would use 
+ family name 
+ and so on and so forth and 
+ guess what this list is extensive that 
+ is a lot of public claims that you can 
+ use already 
+ but 
+ in case 
+ you need a very specific claim for your 
+ systems to work that is another type of 
+ claim that you can use and those are the 
+ private claims they are particular to 
+ your system and your situation and they 
+ can be 
+ anything that you want really anything 
+ and as long as you keep in a valid json 
+ format or dictionary and we know that we 
+ can validate this kind of things in 
+ python in a very easy way 
+ you can have any information in there 
+ but 
+ the more information you have 
+ the bigger the output string you're 
+ going to get 
+ so try to be mindful of the information 
+ that you put on the json 
+ web token and try to keep it only the 
+ relevant data in there 
+ and you're going to see a little bit you 
+ know in a little bit why 
+ now the signature 
+ i left this part for last 
+ well because it comes less and because 
+ it's a little bit different from the 
+ header and the payload the signature 
+ takes the header and the payload into 
+ account 
+ and it passes this information inside of 
+ an algorithm to well sign the token 
+ and well 
+ here i have an example of an algorithm 
+ that has 256 it only takes a secret 
+ together with these informations from 
+ the payload and the header 
+ and well this secret is actually not as 
+ good usually would be something like 
+ this a random 
+ string generated by secret generators 
+ please this is only an example don't use 
+ this in production um but the idea stays 
+ the same 
+ and there are 
+ uh 
+ two types of algorithms you can use they 
+ i had uh hs 256 my portuguese almost 
+ dispute 
+ is a symmetrical algorithm it only takes 
+ a secret both for signing the token and 
+ for verifying or validating the token 
+ in python depending on the 
+ package or library that you are using 
+ it would mean that you would probably 
+ decode the token even though the code is 
+ not the correct 
+ term for verifying a token 
+ the other type of algorithms that you 
+ have and that's the one that i like the 
+ most 
+ the asymmetrical algorithms and you can 
+ notice here we use two different keys 
+ for asymmetrical algorithms 
+ one key for signing that's the private 
+ key and a public key for verifying the 
+ token 
+ and the cool thing about this is the 
+ publicly you can share it with everybody 
+ else so in case you ever sign a token 
+ somebody can check whether or not you 
+ sign the token because there is a way 
+ for you to share the public key for 
+ people to validate the token 
+ and there is a format to do that 
+ part of the jose the json object tiny 
+ encryption 
+ is json web key that comes from a 
+ different 
+ rfc 
+ the 7517 
+ and it specifies the format also a json 
+ object 
+ for you to share the public key 
+ and if you have the same one it looks a 
+ little bit like this 
+ of course it's longer i shortened it for 
+ it to fit on the slides 
+ and the cool thing about this is because 
+ keys are bound for by 
+ mathematical properties you need to know 
+ each parameter to generate a key and 
+ what is the relationship between the 
+ public and the private key 
+ but 
+ another good thing you don't need to 
+ know all of these things about the 
+ mathematics and the functions for 
+ creating the key most packages and 
+ libraries today they already take care 
+ of that for you and if you're following 
+ oidc or interact with the 
+ with the api and systems that follow idc 
+ they will probably have 
+ well well known endpoints that you can 
+ retrieve this set of keys 
+ so you can just 
+ send the endpoint link for the package 
+ and that will be fine 
+ the package will know what to do 
+ now let's see some code because why not 
+ so if you are dealing with jwts you 
+ probably want to verify it and 
+ i'm using pi gwt or pyjatt 
+ a library that a colleague develops and 
+ maintains and this is an example token 
+ so keep that in mind it's not a real 
+ case token i created just for this talk 
+ and 
+ if you import jwt that is from page wt 
+ and you create your token as a string 
+ you're going to be able to validate it 
+ and there is a couple of things that you 
+ can do while validating your tokens 
+ but the simplest case is to import wt 
+ pass along the string of your token and 
+ use pi gwt or in this case your jwt 
+ object to decode the token by passing 
+ along the token string 
+ and passing along the key or secret in 
+ this case it's a secret because this 
+ token was generated using a symmetrical 
+ algorithm 
+ and that i already know and it's super 
+ secret as you can see 
+ and then you can pass what algorithms 
+ were used for signing the token and i 
+ cannot code without making typos so you 
+ can see there in the recording too 
+ so once you decode it if everything is 
+ successful you're going to see 
+ the payload of the token on your screen 
+ and you can save that into an object for 
+ using that later if you need it 
+ now 
+ if you don't know everything that is to 
+ know about the token for example you 
+ don't know what algorithm was used for 
+ signing the token 
+ you can get that information 
+ by using a method called getting 
+ verified headed in the case of ygwt and 
+ you pass along your token 
+ use that method and it should reply to 
+ you 
+ in another dictionary with all of the 
+ information of the token 
+ and there i go typing wrong things again 
+ and once you get that you can put that 
+ on into 
+ uh 
+ object and use that on the previous step 
+ that we already seen 
+ for 
+ making your code a little bit smarter i 
+ always do that because you never know 
+ maybe a token has a different type of 
+ algorithm you never know 
+ so we save that in a header data object 
+ there because i'm very particular about 
+ the name of my variables 
+ and then you can call the code again 
+ and if everything goes well and i know 
+ it's going to go because i recorded this 
+ once 
+ there i go my secret again and keep in 
+ mind that if you're doing your code 
+ you're probably going to 
+ store your secret on a variable not just 
+ type it out like that 
+ especially or maybe in a file that reads 
+ that that you read it 
+ and then you can use they have the data 
+ again 
+ for making your code a little bit 
+ smarter 
+ always try to do that 
+ an advice just in case 
+ and then you go again getting the 
+ information from the user 
+ i feel so sorry for you 
+ but let's say 
+ that 
+ what if something goes wrong i always 
+ showed you or i'd show you the happy 
+ path everything worked 
+ but if something goes wrong what do i do 
+ i don't wanna errors just blowing up in 
+ my face whenever something goes wrong so 
+ this in this case this token was expired 
+ so once i tried to decode it or validate 
+ it you would show me an expired 
+ signature and pie jwt like all the other 
+ packages that i've worked with they have 
+ their so you can import and 
+ try and accept that are in the most 
+ friendly way possible usually you would 
+ do that so that you could 
+ log that error for some for 
+ logging purposes and discovering what 
+ went wrong with your program or your 
+ system 
+ so there i have my accept and i'm just 
+ spinning because i want to show you what 
+ is what is happening 
+ and 
+ if i can type things right it would be 
+ nice 
+ unable to decode the token and whatever 
+ i got from it 
+ if everything goes right and it will 
+ let's see 
+ signature has expired so that's how you 
+ know you probably have to get a new 
+ token because that token was expired 
+ now this is a different token as you 
+ probably can notice because of the size 
+ and 
+ because if you are dealing with tokens 
+ that were signed with asymmetrical 
+ algorithms you're probably going to have 
+ a little bit more work to do that is 
+ importing a way for reading keys 
+ in this case i used on ssh rsa 
+ rsa yes that's the right rsa key and i'm 
+ reading the public key so that i can 
+ validate my token 
+ notice that i'm using the public key to 
+ validate the token and not the private 
+ one 
+ so 
+ for reading the key you have to do a 
+ little bit of extra steps uh this key is 
+ in a 
+ file in my computer not in an endpoint 
+ but it could be in an end point if you 
+ wanted and did pyjamat in this case has 
+ a lot of functions for reading public 
+ keys which is nice you can read any type 
+ of keys you want 
+ and you have to encode it 
+ and then you can pass that into the 
+ decode function once more instead of a 
+ secret now a key 
+ for getting the information of the user 
+ and there i go again token key 
+ typos 
+ yes thank you out complete autocompletes 
+ is wonderful 
+ algorithms 
+ and this time i didn't use the 
+ that trick for getting the algorithm 
+ from the token header but i could if i 
+ wanted to 
+ notice the different algorithm now is rs 
+ 256 and everything worked and i got the 
+ information from the user 
+ now 
+ where do you find jwts in the wild 
+ and that's the most important question 
+ probably so access tokens are the most 
+ common ones especially if you're talking 
+ about python because we deal with apis 
+ all the time 
+ so access tokens are the ideal way for 
+ you to get access to a protected api but 
+ access tokens doesn't have necessarily 
+ to be jwts it could be some other type 
+ of token 
+ but if you're following the latest 
+ standards that is a newer scene on the 
+ block not part of jose but i thought it 
+ was important to mention to you 
+ that was authored by vittorio bertacci 
+ uh principal worked at about zero after 
+ much work 
+ you now can have an rfc to use as a 
+ basis for using jwts as access tokens so 
+ that's a very good read i truly 
+ recommend it 
+ then you have id tokens and id tokens 
+ are cool because they are always jwts 
+ and the important thing is it can take a 
+ little bit out of the work of doing two 
+ requests to your backend for getting the 
+ information of the user so once your 
+ user login your backend would reply with 
+ an id token with information from the 
+ user like profile picture user preferred 
+ name and things like that they'll make 
+ your life easier for showing or at least 
+ the front-end life easier for showing 
+ the information of the user 
+ now speaking of tokens you may have 
+ heard of refresh tokens but refresh 
+ tokens aren't the jwts that's why i'm 
+ not talking about that here and that 
+ would be an entirely new talk so maybe 
+ next year who knows 
+ and finally a few tips and advices how 
+ to be safe with your wt's 
+ don't store jwts in local storage 
+ and don't do that because that opens you 
+ up for a type of uh vulnerability called 
+ in an attack called access xss that is 
+ called scripting's cross site scripting 
+ my god these two words 
+ but the idea is for you to be safer 
+ don't start that in local storage if you 
+ need to validate your jwt 
+ put that uh that step on the back end if 
+ you can 
+ all right and start on the in memory for 
+ validation purpose once the memory is 
+ flushed no problem there 
+ and 
+ try not to verify access tokens on the 
+ front end if you need to verify an 
+ access token 
+ do that in the back end that should be a 
+ responsibility of your backhand not your 
+ front end 
+ don't put sensitive data into wt and 
+ this is a tricky one because well if i'm 
+ putting the information from the user 
+ on the id token for displaying that on 
+ my front end how can i not put sensitive 
+ data so what i'm talking about here is 
+ actually for example credit card 
+ information 
+ do not put like the numbers of the 
+ credit card in there because anybody 
+ that can decode a base64 will be able to 
+ retrieve that data and you don't want 
+ that data lying around everywhere 
+ tools because we love tools 
+ let's say you are working with dwt's and 
+ you need to debug a jwt 
+ jw 
+ is a tool that we developed at out zero 
+ and you can debug your token on our web 
+ browser so you can access on your phone 
+ paste it there and you can see the 
+ claims inside of the wt you can verify 
+ it if you want to so it's very useful 
+ for 
+ figuring out for example if you're 
+ implementing tasks why my tests not 
+ working 
+ that's really 
+ helpful too 
+ and the second one if you want a more 
+ in-depth content about uwt i truly 
+ recommend the dwt handbook it has a lot 
+ of examples user cases and things like 
+ that 
+ and how to be safer with your abilities 
+ so if you want a 
+ longer read 
+ go ahead and download it 
+ finally that was all for today if you 
+ have questions find me in the hallway 
+ thank you 
+ [Applause] 
+ [Music] 
+ [Applause] 
+ oh we still have time okay so folks we 
+ have some time have we got so some q a 
+ for jess i think maybe we can have three 
+ questions 
+ do you have anything remote remote 
+ questions 
+ i don't think so he's not okay no okay 
+ oh yeah hi i was going to ask from my 
+ experience what would be your preferred 
+ tactic for invalidating the 
+ jwts because this is actually a real 
+ problem you don't want to let users uh 
+ always use them until they just expire 
+ so what's your preferred tactic for 
+ invalidating them well see if they are 
+ expired they shouldn't be able to use it 
+ because they should be valid finding the 
+ gwt in one of the verification steps i 
+ mean before they expire oh 
+ yes that's a tricky question because 
+ once the jwt is out in the wild you 
+ cannot call it back so probably what you 
+ would have to do 
+ is 
+ uh 
+ make a step on your end for some type of 
+ jwts uh but that's hard we can have this 
+ discussion 
+ uh longer offline 
+ hello hi ann wilson hey janet um great 
+ talk thank you very much 
+ uh i know what you said about not 
+ storing the tokens in local storage yeah 
+ when i was starting learning about jwts 
+ i thought that advice and also not to 
+ store them in cookies because that's 
+ vulnerable to a different problem 
+ where do you keep them 
+ well 
+ it depends why do you want to keep them 
+ um 
+ so that the user can be authenticated on 
+ their next well if they are going to 
+ like be authenticated in the next 
+ request probably the way to do it would 
+ be using cookies 
+ but there are different types of cookies 
+ that you can have and probably there is 
+ a safer cookie that you can use i have a 
+ resource find me later that i can send 
+ you cool thank you so much thank you 
+ so is this actually a good idea to take 
+ the header uh from an unverified jwt and 
+ use it as the header because doesn't 
+ this actually introduce a potential 
+ vulnerability if you are using 
+ different uh key schemes i mean they're 
+ both symmetrical and asymmetrical in 
+ your application 
+ well the thing is 
+ getting the unverified header is a way 
+ for you to know what algorithm was used 
+ and by the algorithm you can know which 
+ type of key you have to use yeah but the 
+ thing is that you would actually do um 
+ if your application would implement both 
+ symmetrical uh authentication and 
+ asymmetrical in 
+ two different places then you can use 
+ the public key you can recreate your own 
+ jwt and send it to a different api that 
+ you know should supposedly use the 
+ symmetrical one only but if it would 
+ reuse the same code uh until you know 
+ getting the header from the 
+ dwt token then you would be vulnerable 
+ to uh you know someone could basically 
+ forge the dwt token so you control the 
+ way for creating the token and you're 
+ using the public key is that it 
+ yeah attacker can actually yeah i mean i 
+ i could create my own jw 
+ public key yes but well if you are 
+ creating your diabetes without keys we 
+ should not be doing that 
+ so 
+ my point is that yeah if you are showing 
+ this on a slide the problem is that 
+ someone could use it incorrectly right 
+ so that my point is just it's good to 
+ point out that there is this potential 
+ issue here yeah you should probably 
+ match the algorith to the expected one 
+ yes you should do that in this case i 
+ didn't show that example but you make 
+ the code longer there are very 
+ well three steps that you have to do 
+ it's good to add it at the end of the of 
+ the 
+ when you show the issues right okay 
+ thank you i'll know that on the next one 
+ thanks 
+ we might have one more time for one more 
+ question or i think we can just close 
+ and if you have anything else to discuss 
+ and she will be in the hallway yes he 
+ has another warm round of applause for 
+ jess 
+ thank you 
+ [Music] 
+ [Applause] 
+ we will have lightning tops 
+ in the auditorium 
+ from 
+ 450 
+ i also have stickers so if anyone wants 
+ stickers let me know 
+ thank you 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up and 
+ this whole workflow almost exclusively 
+ works in python 
+ working in a company that has 
+ aspirations to be the best at what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you're trying to solve those problems 
+ you can't beat that 
+ [Music] 
+ there are people who are actually able 
+ to not only look at the data and 
+ understand it but analyze it and express 
+ it in a way that others understand 
+ [Music] 
+ and that's i suppose that's the gift of 
+ a great storyteller 
+ [Music] 
+ uh we're here 
+ at microsoft and we have been sponsoring 
+ era python for i believe four years now 
+ it's been some time and we're excited to 
+ be back here this year yeah so for euro 
+ python this year 
+ our team has has a few talks 
+ lined up for some of the attendees so 
+ we're doing that and we also have some 
+ cool swag and stickers for all the 
+ attendees as well some of them might be 
+ limited edition we'll see 
+ and we absolutely love euro python 
+ because of the community the european 
+ community is amazing and we 
+ love being able to see them in hearing 
+ person get this just this connection 
+ that we 
+ can't have virtually but it's always not 
+ the same in person it's always like that 
+ really great conversations and we get 
+ like 
+ [Music] 
+ great feedback from our users as well 
+ but most importantly it's the 
+ conversations about how much we love 
+ python and all the amazing things we do 
+ with this like the european 
+ community 
+ so we're a brand new sponsor for uh for 
+ your piping this year bank for america 
+ mainly here as a recruitment drive we 
+ have you know plenty of open roles in 
+ the python space 
+ both in core app development django 
+ flask and 
+ uh and across full stack as well 
+ in terms of doing something special for 
+ the attendees we have a really 
+ interesting speaker this year in terms 
+ of nile o'connor talking about asset 
+ price reversals 
+ um 
+ uh without the normal swag and uh 
+ special gifts for people and we'll be 
+ doing some some raffles and giveaways um 
+ and if there's anyone who wants to talk 
+ to us at the desk we're here all through 
+ the conference i guess we chose europe 
+ because hey it's in dublin and it's the 
+ first time since uh overtime so we've 
+ been able to get people together and 
+ really you know promote what we do in 
+ bank america in terms of python um 
+ you know it's a very much 
+ a python focused uh conference which is 
+ really where our tech stack lies and 
+ where a lot of our projects are within 
+ bank of america 
+ so hi my name is marianne shine and i'm 
+ the head of hr and operations with 
+ umnitza in ireland 
+ so this is umnitz's first year to 
+ sponsor your python we're so excited to 
+ celebrate this year and participate in 
+ europe python 
+ coming to ireland so umnitza is a u.s 
+ company with our r d based in galway in 
+ the west of ireland we have employees 
+ all over ireland and we thought this 
+ would be a great opportunity 
+ to bring them along today and 
+ participate 
+ in the ecosystem the python ecosystem 
+ and really learn from 
+ other professionals within this area 
+ this year we're actually sponsoring the 
+ pi ladies lunch 
+ so nitza are very passionate about 
+ gender diversity within our engineering 
+ team in galway we currently have 33 
+ females in our team 
+ and so we're very privileged and honored 
+ to sponsor the pie ladies lunch which i 
+ think is taking place on friday so we're 
+ very excited to be here i think europe 
+ python is a very unique conference 
+ and because i think it 
+ brings people who are passionate about 
+ python together 
+ and really gives them the opportunity to 
+ learn about the most progressive 
+ practices within python and also 
+ leverage the wider 
+ python ecosystem 
+ [Music] 
+ umnitsa is the enterprise technology 
+ management solution that consolidates 
+ data from existing siloed tools to 
+ provide a single source of truth for 
+ endpoints applications cloud networking 
+ and accessories 
+ with imnitza you can automate processes 
+ from purchase to end of life achieving 
+ five key benefits 
+ find out how omnitsa can give you 
+ complete control and insight across your 
+ technology portfolios book a live demo 
+ today at umnitza.com 
+ [Music] 
+ [Music] 
+ um 
+ [Music] 
+ so in my team execution research 
+ everything starts from data 
+ after getting the data we do our 
+ research and analysis on this data to 
+ test our ideas 
+ and then finally we have to get it in an 
+ output format such that trading or 
+ trading strategies can pick this up and 
+ this whole workflow almost exclusively 
+ works in python 
+ working in a company that has 
+ aspirations to be the best at what they 
+ do that's what drives people solving 
+ problems and having the best people with 
+ you trying to solve those problems you 
+ can't beat that 
+ [Music] 
+ there are people 
+ you
